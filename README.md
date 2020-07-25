@@ -46,7 +46,7 @@ What is a specific, measureable objective for your proposal?
 
 **Get inspired** 
 What are some words that describe great science? 
-(./files/hook/wordcloud.png)
+(./documents/hook/wordcloud.png)
 
 
 
