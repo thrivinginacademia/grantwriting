@@ -1,20 +1,3 @@
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 # Developing a research idea
 
 This first step is *exploratory.* You have to let yourself be free! Don't overthink your answers, just jot things down. Yes, really jot! Grab a scrap paper and pen, or open a notepad on your computer, and make some notes to the following questions. You can do bullet points, word clouds, phrases, or compete sentences. Up to you! BE FREE!
@@ -64,5 +47,24 @@ What are some terms that describe great science?
 # Broader Impacts
 
 # Personal statements 
+
+# under construction
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
