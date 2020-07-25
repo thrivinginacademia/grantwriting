@@ -32,7 +32,11 @@ What are some terms that describe great science?
 
 
 
-# Constructing a linear flow of logic: Gap in knowledge, objectives, hypotheses, specific aims
+# Constructing a linear flow of logic
+## Gap in knowledge
+## Objectives
+## Hypotheses
+## Specific aims
 
 
 # Effective literature searching
