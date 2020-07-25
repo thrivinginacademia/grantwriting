@@ -25,7 +25,6 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 
 
 ```
-
 What are you passionate about, in terms of research?
 
 What is the problem or need, and why is it important?
