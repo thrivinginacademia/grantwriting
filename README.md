@@ -1,10 +1,5 @@
 ## Introduction to Grant Writing
 
-
-
-
-```
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -18,7 +13,7 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -53,7 +48,7 @@ What is a specific, measureable objective for your proposal?
 **Get inspired** 
 
 What are some terms that describe great science? 
-<img src="{{site.url}}/documents/hook/wordcloud.png" style="display: block; margin: auto;" />
+![Image](documents/hook/wordcloud.png)
 
 
 
