@@ -1,4 +1,4 @@
-## Introduction to Grant Writing
+# Introduction to Grant Writing
 
 # Header 1
 ## Header 2
@@ -17,11 +17,11 @@
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Developing a research idea
+## Developing a research idea
 
 This first step is *exploratory.* You have to let yourself be free! Don't overthink your answers, just jot things down. Yes, really jot! Grab a scrap paper and pen, or open a notepad on your computer, and make some notes to the following questions. You can do bullet points, word clouds, phrases, or compete sentences. Up to you! BE FREE!
 
-**Some questions you may want to answer in your “hook”**
+### Some questions you may want to answer in your “hook”
 
 
 ```
@@ -44,27 +44,27 @@ What is the goal of your proposal (make sure you have a clear goal statement)?
 What is a specific, measureable objective for your proposal?
 ```
 
-**Get inspired** 
+### Get inspired
 
 What are some terms that describe great science? 
 ![Image](images/wordcloud.png)
 
 
 
-### Constructing a linear flow of logic: Gap in knowledge, objectives, hypotheses, specific aims
+## Constructing a linear flow of logic: Gap in knowledge, objectives, hypotheses, specific aims
 
 
-### Effective literature searching
+## Effective literature searching
 
 
-### Developing a research plan
+## Developing a research plan
 
-### Effective use of figures and displays
+## Effective use of figures and displays
 
-### The art of scientific writing 
+## The art of scientific writing 
 
-### Broader Impacts
+## Broader Impacts
 
-### Personal statements 
+## Personal statements 
 
 
