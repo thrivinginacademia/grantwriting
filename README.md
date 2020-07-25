@@ -28,6 +28,9 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 
 **Some questions you may want to answer in your “hook”**
 
+
+```
+
 What are you passionate about, in terms of research?
 
 What is the problem or need, and why is it important?
@@ -45,11 +48,12 @@ What will it contribute, and who will benefit from it (intellectual merit and br
 What is the goal of your proposal (make sure you have a clear goal statement)?
 
 What is a specific, measureable objective for your proposal?
+```
 
 **Get inspired** 
 
 What are some terms that describe great science? 
-(./documents/hook/wordcloud.png)
+<img src="{{site.url}}/documents/hook/wordcloud.png" style="display: block; margin: auto;" />
 
 
 
