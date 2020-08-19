@@ -1,4 +1,5 @@
 # Developing a hook
+<link type="text/css" rel="stylesheet" href="css/main.css" />
 <div class="embed-youtube">
 {% include youtubePlayer.html id="MvjeLUuITlQ" %}
 </div>
