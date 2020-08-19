@@ -1,5 +1,7 @@
 # Developing a hook
+<div class="embed-youtube">
 {% include youtubePlayer.html id="MvjeLUuITlQ" %}
+</div>
 This first step is *exploratory.* You have to let yourself be free! Don't overthink your answers, just jot things down. Yes, really jot! Grab a scrap paper and pen, or open a notepad on your computer, and make some notes to the following questions. You can do bullet points, word clouds, phrases, or compete sentences. Up to you! BE FREE!
 
 ## Questions to answer
