@@ -184,7 +184,7 @@ Cohesion and coherence
 The tile of the proposal should be brief, scientiiccally valid, intelligible for the audience, and potentially suitable for use in a public format as often times awarded proposal titles are lsited on websites, for example. 
 
 ## Tip
-Your title should emphasize the payoff--the *product* of the research. 
+Your title should emphasize the payoff---the *product* of the research. 
 
 
 # References
