@@ -100,7 +100,7 @@ Rooted in existing knowledge
 Thought about the alternative hypothesis 
 Simple/straight forwarded
 
-## Activity 
+## Exercise 
 Fill out the Aims in the general format below: 
 Aim 1: Title
 Introduction
