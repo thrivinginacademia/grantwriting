@@ -146,6 +146,36 @@ Key for any symbols/abbreviations
 
 # The art of scientific writing 
 
+Based on Style: Lesson in Clarity and Grace by Joseph Williams  
+
+Know what you want to say: as clearly and simply as possible 
+Exercise :
+Undertanding causal factors … lead to more effective treatment 
+Treatments that address excessive drinnking 
+We could more effectively treat students who drink excessively if we underant why they do 
+[subject] [verb] [object]
+Ten Principles for Writing Clearly
+Example 2:
+Subject: The wolf’s jump (a walk through the woods)
+Verb: occurred
+Object: Little Red Riding Hood
+Once upon a time, Little Red 
+Nominalizations: when you turn a verb into a noun
+You see this all the time in scientific writing 
+Example 3:
+“The outsourcing of a high-tech work to Asia by corporation results in the loss of many jobs for American workers”
+Nominalizations: “the outsourcing of”
+“American workers lose jobs when high-tech jobs are outsourced to Asia”
+Bad: The intention of the committee is to improve morale
+Good: The committee intends to improve morale 
+Think about characters
+Noun strings:
+Early childhood thought disorder misdiagnosis often result from
+Physicians misdiagnose disorders in early childhood
+Cohesion and coherence 
+
+
+
 # Broader Impacts
 
 # Personal statements 
