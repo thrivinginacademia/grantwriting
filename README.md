@@ -40,7 +40,8 @@ What are some terms that describe great science?
 
 
 # Effective literature searching
-
+## Exercise
+Write a series of questions/sub-headings addressing each aspect of your central hypothesis. Perform a literature search, and identify the most influential papers that address that question/topic.  Write a short summary of each paper addressing the topic, method of analysis, conclusions, and how it relates to your question/topic. You should aim for a total of 15-20 papers max, so you will have to be selective about which are the KEY papers that your work is in conversation with. Aim to include a mix of classic and recent papers. Show this annotated bibliography to your mentor and PI to get suggestions for any papers you may have missed. 
 
 # Developing a research plan
 
