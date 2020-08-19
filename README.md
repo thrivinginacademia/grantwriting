@@ -189,7 +189,7 @@ Your title should emphasize the payoff---the *product* of the research.
 
 ***
 # References
-
+Morrison, D. C., and Russell, S. W. 2012. The Grant Application Writer's Workbook: National Science Foundation Workbook. 
 
 
 - Bulleted
