@@ -180,11 +180,16 @@ Cohesion and coherence
 
 # Personal statements 
 
-# Creating an eye-catching titles
+# Creating an eye-catching title
+The tile of the proposal should be brief, scientiiccally valid, intelligible for the audience, and potentially suitable for use in a public format as often times awarded proposal titles are lsited on websites, for example. 
 
-# Header 1
-## Header 2
-### Header 3
+## Tip
+Your title should emphasize the payoff--the *product* of the research. 
+
+
+# References
+
+
 
 - Bulleted
 - List
