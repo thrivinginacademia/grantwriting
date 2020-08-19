@@ -100,6 +100,14 @@ Rooted in existing knowledge
 Thought about the alternative hypothesis 
 Simple/straight forwarded
 
+## Activity 
+Fill out the Aims in the general format below: 
+Aim 1: Title
+Introduction
+Research Design
+Expected Outcomes
+Potential problem and alternate approaches
+
 
 # Effective use of figures and displays
 
