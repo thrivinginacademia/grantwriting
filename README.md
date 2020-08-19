@@ -31,14 +31,14 @@ What are some terms that describe great science?
 ![Image](images/wordcloud.png)
 
 
-
+***
 # Constructing a linear flow of logic
 ## Gap in knowledge
 ## Objectives
 ## Hypotheses
 ## Specific aims
 
-
+***
 # Effective literature searching
 
 Identifying the appropriate breadth and depth of a literature review, as well as where to find appropriate sources
@@ -46,6 +46,7 @@ Identifying the appropriate breadth and depth of a literature review, as well as
 ## Exercise
 Write a series of questions/sub-headings addressing each aspect of your central hypothesis. Perform a literature search, and identify the most influential papers that address that question/topic.  Write a short summary of each paper addressing the topic, method of analysis, conclusions, and how it relates to your question/topic. You should aim for a total of 15-20 papers max, so you will have to be selective about which are the KEY papers that your work is in conversation with. Aim to include a mix of classic and recent papers. Show this annotated bibliography to your mentor and PI to get suggestions for any papers you may have missed. 
 
+***
 # Developing a research plan
 
 
@@ -108,7 +109,7 @@ Research Design
 Expected Outcomes
 Potential problem and alternate approaches
 
-
+***
 # Effective use of figures and displays
 
 
@@ -144,6 +145,7 @@ Description of main point/result of figure
 Methods required to interpret figure including sample sizes
 Key for any symbols/abbreviations
 
+***
 # The art of scientific writing 
 
 Based on Style: Lesson in Clarity and Grace by Joseph Williams  
@@ -175,11 +177,13 @@ Physicians misdiagnose disorders in early childhood
 Cohesion and coherence 
 
 
-
+***
 # Broader impacts
 
+***
 # Personal statements 
 
+***
 # Creating an eye-catching title
 The tile of the proposal should be brief, scientiiccally valid, intelligible for the audience, and potentially suitable for use in a public format as often times awarded proposal titles are lsited on websites, for example. 
 
@@ -187,6 +191,7 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 Your title should emphasize the payoff---the *product* of the research. 
 
 
+***
 # References
 
 
