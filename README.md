@@ -40,10 +40,66 @@ What are some terms that describe great science?
 
 
 # Effective literature searching
+
+Identifying the appropriate breadth and depth of a literature review, as well as where to find appropriate sources
+
 ## Exercise
 Write a series of questions/sub-headings addressing each aspect of your central hypothesis. Perform a literature search, and identify the most influential papers that address that question/topic.  Write a short summary of each paper addressing the topic, method of analysis, conclusions, and how it relates to your question/topic. You should aim for a total of 15-20 papers max, so you will have to be selective about which are the KEY papers that your work is in conversation with. Aim to include a mix of classic and recent papers. Show this annotated bibliography to your mentor and PI to get suggestions for any papers you may have missed. 
 
 # Developing a research plan
+
+
+Introduction 
+“This is the conceptual overview of the aim”
+Want to hook the reader and explain why this aim is worthwhile
+Give a brief summary 
+Justification of approach
+Think of overall outcome in Aim
+
+Research Design (How you will do it)
+Arrange the Aims in a logical flow
+Make sure the aims (especially their outcome) aren’t dependent on other aims to be successful 
+Experimental design vs. methodology 
+Won’t be detailed methods of equipment and reagents 
+Replication
+Randomization 
+Controls (most important)
+Positive vs negative
+Limitations of technology 
+Limitations of technique 
+Look in the literature 
+When writing your experimental design: How do you know what level of detail is appropriate (is it citable)
+Citable 
+Fits space 
+Analysis framework 
+Critical reagents difficult to retain 
+Timeline
+Sampling points
+
+Expected outcomes 
+Show you understand what type of data
+Potential problems/alternative approaches 
+Demonstrate expertise and head off any reviewer concerns 
+Will this be a common concern 
+Alterative strategy 
+
+
+
+Use strong language:
+hope , try ---> we will
+Ask yourself is their sufficient detail in my hands … conceptional aspects of the aim 
+highlight resources on campus that make you the ideal researcher
+
+Characteristics of a great hypothesis 
+Testable
+Falsifiable 
+Can be clearly refuted 
+General 
+Also, generate new streams of ideas (is going to be interesting in 10 years)
+Rooted in existing knowledge 
+Thought about the alternative hypothesis 
+Simple/straight forwarded
+
 
 # Effective use of figures and displays
 
