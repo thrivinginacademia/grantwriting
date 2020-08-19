@@ -111,6 +111,39 @@ Potential problem and alternate approaches
 
 # Effective use of figures and displays
 
+
+Purposes of displays:
+Give information in reduced space
+Give information more clearly
+Provide compelling preliminary data
+Provide proof of feasibility
+Stick in reviewer’s mind
+Provide visual break for reviewer
+Make proposal visually attractive
+Types of displays:
+Conceptual – illustrate concept or hypothesis, pose predictions graphically
+Summarize – present information in concise format
+Data – present preliminary results
+Experimental design – Explain experimental design/ methods
+Rules for better figures (from Rougier et al. 2014)
+Know your audience
+Identify your message
+Adapt the figure to the support medium (i.e. consider size and complexity)
+Captions are not optional
+Use color effectively
+Avoid “chartjunk”
+Must be fully legible when printed in black and white (9 pt Arial font or above)
+Integrating displays into text
+When do you want the reader to look at the display? Position as close as possible. 
+Explicitly send them to look at the display. E.g. “As can be seen from Fig. 3, …”
+Conclusions/ big picture stuff in text, tell reader what you want them to conclude from the display. Give details in display title or caption. 
+Preliminary data - state why these data are important for specific aim. 
+Components of figure legends 
+Brief title for figure
+Description of main point/result of figure
+Methods required to interpret figure including sample sizes
+Key for any symbols/abbreviations
+
 # The art of scientific writing 
 
 # Broader Impacts
