@@ -176,11 +176,11 @@ Cohesion and coherence
 
 
 
-# Broader Impacts
+# Broader impacts
 
 # Personal statements 
 
-# under construction
+# Creating an eye-catching titles
 
 # Header 1
 ## Header 2
