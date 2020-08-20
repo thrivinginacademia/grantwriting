@@ -30,14 +30,14 @@ What are some terms that describe great science?
 
 
 ***
-# Constructing a linear flow of logic
+# Constructing a flow of logic
 ## Gap in knowledge
 ## Objectives
 ## Hypotheses
 ## Specific aims
 
 ***
-# Effective literature searching
+# Literature searching
 
 Identifying the appropriate breadth and depth of a literature review, as well as where to find appropriate sources
 > This short video lays out a nice introduction on how to write a literature review. Even if you've written literature reviews before, it might be worth it to review the basics to get you going on the right track. Plus, the video links to several other helpful videos on the topic. 
@@ -47,7 +47,7 @@ Identifying the appropriate breadth and depth of a literature review, as well as
 Write a series of questions/sub-headings addressing each aspect of your central hypothesis. Perform a literature search, and identify the most influential papers that address that question/topic.  Write a short summary of each paper addressing the topic, method of analysis, conclusions, and how it relates to your question/topic. You should aim for a total of 15-20 papers max, so you will have to be selective about which are the KEY papers that your work is in conversation with. Aim to include a mix of classic and recent papers. Show this annotated bibliography to your mentor and PI to get suggestions for any papers you may have missed. 
 
 ***
-# Developing a research plan
+# Developing a plan
 
 
 Introduction 
@@ -110,7 +110,7 @@ Expected Outcomes
 Potential problem and alternate approaches
 
 ***
-# Effective use of figures and displays
+# Figures and displays
 
 
 Purposes of displays:
@@ -146,7 +146,7 @@ Methods required to interpret figure including sample sizes
 Key for any symbols/abbreviations
 
 ***
-# The art of scientific writing 
+# Scientific writing 
 {% include youtubePlayer.html id="G5UGU9MV7Z0" %}
 Based on Style: Lesson in Clarity and Grace by Joseph Williams  
 
@@ -184,7 +184,7 @@ Cohesion and coherence
 # Personal statements 
 
 ***
-# Creating an eye-catching title
+# Eye-catching titles
 The tile of the proposal should be brief, scientiiccally valid, intelligible for the audience, and potentially suitable for use in a public format as often times awarded proposal titles are lsited on websites, for example. 
 
 ## Tip
