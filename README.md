@@ -147,7 +147,7 @@ Key for any symbols/abbreviations
 
 ***
 # The art of scientific writing 
-
+{% include youtubePlayer.html id="G5UGU9MV7Z0" %}
 Based on Style: Lesson in Clarity and Grace by Joseph Williams  
 
 Know what you want to say: as clearly and simply as possible 
