@@ -23,7 +23,7 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 
 * What is a specific, measureable objective for your proposal?
 
-## Get inspired
+### Get inspired
 
 What are some terms that describe great science? 
 ![Image](images/wordcloud.png)
@@ -31,10 +31,10 @@ What are some terms that describe great science?
 
 ***
 # Constructing a flow of logic
-## Gap in knowledge
-## Objectives
-## Hypotheses
-## Specific aims
+### Gap in knowledge
+### Objectives
+### Hypotheses
+### Specific aims
 
 ***
 # Literature searching
@@ -43,7 +43,7 @@ Identifying the appropriate breadth and depth of a literature review, as well as
 > This short video lays out a nice introduction on how to write a literature review. Even if you've written literature reviews before, it might be worth it to review the basics to get you going on the right track. Plus, the video links to several other helpful videos on the topic. 
 {% include youtubePlayer.html id="zIYC6zG265E" %}
 
-## Exercise
+#### Exercise
 Write a series of questions/sub-headings addressing each aspect of your central hypothesis. Perform a literature search, and identify the most influential papers that address that question/topic.  Write a short summary of each paper addressing the topic, method of analysis, conclusions, and how it relates to your question/topic. You should aim for a total of 15-20 papers max, so you will have to be selective about which are the KEY papers that your work is in conversation with. Aim to include a mix of classic and recent papers. Show this annotated bibliography to your mentor and PI to get suggestions for any papers you may have missed. 
 
 ***
@@ -101,7 +101,7 @@ Rooted in existing knowledge
 Thought about the alternative hypothesis 
 Simple/straight forwarded
 
-## Exercise 
+#### Exercise 
 Fill out the Aims in the general format below: 
 Aim 1: Title
 Introduction
@@ -187,7 +187,7 @@ Cohesion and coherence
 # Eye-catching titles
 The tile of the proposal should be brief, scientiiccally valid, intelligible for the audience, and potentially suitable for use in a public format as often times awarded proposal titles are lsited on websites, for example. 
 
-## Tip
+### Tip
 Your title should emphasize the payoff---the *product* of the research. 
 
 
