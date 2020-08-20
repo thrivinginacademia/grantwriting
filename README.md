@@ -4,7 +4,7 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 > This short video about writing hooks is **not** specifically about grant proposals, but the principles apply. Check it out!
 {% include youtubePlayer.html id="MvjeLUuITlQ" %}
 
-## Questions to answer
+### Questions to answer
 * What are you passionate about, in terms of research?
 
 * What is the problem or need, and why is it important?
