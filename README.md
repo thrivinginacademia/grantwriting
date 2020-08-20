@@ -27,7 +27,7 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 > TED Talks are known for their attention-grabbing hooks! Here is a short compilation of some good ones. What features do these hooks have that you could use in your proposal?  
 {% include youtubePlayer.html id="qaAkoS_9BrE" %}
 
-**What are some terms that describe great science?** 
+_**What are some terms that describe great science?**_
 ![Image](images/wordcloud.png)
 
 
