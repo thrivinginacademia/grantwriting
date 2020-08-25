@@ -39,6 +39,36 @@ _**What are some terms that describe great science?**_
 
 ***
 # Constructing a flow of logic
+The body of your proposal should follow a logical path and address the following points, as described in *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section,* available for download [here:](http://www.grantcentral.com/downloads-nsf/)
+* Introduction
+* 
+* 
+* 
+
+Intro paragraph
+Opening sentence
+-arresting
+-program relevant 
+-important (not truism)
+
+Current knowledge
+-2-3 sentences
+-inform reviewers of current state of knowledge
+-oldest → newest
+-establish yourself as expert
+
+Gap in knowledge
+-next step needed to advance field 
+-important problem, blocking progress
+
+Long-term goal
+-continuum of research 
+
+Overall objective
+-what will be accomplished 
+-links to gap 
+
+
 ![From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.](images/logic.JPG)
 *From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.*
 
@@ -48,7 +78,7 @@ _**What are some terms that describe great science?**_
 ### Specific aims
 
 #### Exercise
-1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section.](http://www.grantcentral.com/workbooks/national-science-foundation/)
+1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section.](http://www.grantcentral.com/downloads-nsf/)
 2. Continue developing your "hook" into a 1-2 paragraph description of your topic. This should encompass the gap through to central hypothesis as described above and in the suggested reading. Focus on the clarity of ideas rather than elegant text, and remember: Keep it Simple! 
 
 ***
