@@ -212,17 +212,11 @@ Your title should emphasize the payoff---the *product* of the research.
 
 # Copyright
 All material preseneted is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
