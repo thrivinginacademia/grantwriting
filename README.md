@@ -30,6 +30,8 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 _**What are some terms that describe great science?**_
 ![Image](images/wordcloud.png)
 
+#### Exercise
+
 
 ***
 # Constructing a flow of logic
@@ -37,6 +39,8 @@ _**What are some terms that describe great science?**_
 ### Objectives
 ### Hypotheses
 ### Specific aims
+
+#### Exercise
 
 ***
 # Literature searching
@@ -195,7 +199,7 @@ Your title should emphasize the payoff---the *product* of the research.
 
 ***
 # References
-Morrison, D. C., and Russell, S. W. 2012. The Grant Application Writer's Workbook: National Science Foundation Workbook. 
+[Morrison, D. C., and Russell, S. W. 2012. The Grant Application Writer's Workbook: National Science Foundation - FastLane Version.](http://www.grantcentral.com/workbooks/national-science-foundation/)
 
 # Copyright
 All material preseneted is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
