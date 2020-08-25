@@ -33,7 +33,7 @@ _**What are some terms that describe great science?**_
 #### Exercise
 1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 2: How to Develop and Optimize the Idea for your Grant Application.](http://www.grantcentral.com/workbooks/national-science-foundation/)
 2. Complete the [*Developing a research idea* worksheet.](files/Developing_a_research_idea.pdf)
-3. Brainstorm a few sentences to "hook" your readers interest. 
+3. Brainstorm a few sentences to "hook" your reader's interest. 
 
 ***
 # Constructing a flow of logic
