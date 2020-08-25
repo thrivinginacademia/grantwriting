@@ -31,16 +31,19 @@ _**What are some terms that describe great science?**_
 ![Image](images/wordcloud.png)
 
 #### Exercise
-
+1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 2: How to Develop and Optimize the Idea for your Grant Application.](http://www.grantcentral.com/workbooks/national-science-foundation/)
+2. 
 
 ***
 # Constructing a flow of logic
+![From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.](files/logic.png)
 ### Gap in knowledge
 ### Objectives
 ### Hypotheses
 ### Specific aims
 
 #### Exercise
+Write a 1-2 paragraph description of your topic, designed to "hook" your readers interest. 
 
 ***
 # Literature searching
