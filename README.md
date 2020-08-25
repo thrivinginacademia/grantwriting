@@ -32,7 +32,7 @@ _**What are some terms that describe great science?**_
 
 #### Exercise
 1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 2: How to Develop and Optimize the Idea for your Grant Application.](http://www.grantcentral.com/workbooks/national-science-foundation/)
-2. 
+2. Write a 1-2 paragraph description of your topic, designed to "hook" your readers interest. 
 
 ***
 # Constructing a flow of logic
@@ -45,7 +45,6 @@ _**What are some terms that describe great science?**_
 ### Specific aims
 
 #### Exercise
-Write a 1-2 paragraph description of your topic, designed to "hook" your readers interest. 
 
 ***
 # Literature searching
