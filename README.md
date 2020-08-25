@@ -32,7 +32,7 @@ _**What are some terms that describe great science?**_
 
 #### Exercise
 1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 2: How to Develop and Optimize the Idea for your Grant Application.](http://www.grantcentral.com/workbooks/national-science-foundation/)
-2. Write a 1-2 paragraph description of your topic, designed to "hook" your readers interest. 
+2. Write a few sentences to "hook" your readers interest. 
 
 ***
 # Constructing a flow of logic
@@ -45,6 +45,8 @@ _**What are some terms that describe great science?**_
 ### Specific aims
 
 #### Exercise
+1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section.](http://www.grantcentral.com/workbooks/national-science-foundation/)
+2. Continue developing your "hook" into a 1-2 paragraph description of your topic. This should encompass the gap through to central hypothesis as described above and in the suggested reading. Focus on the clarity of ideas rather than elegant text, and remember: Keep it Simple! 
 
 ***
 # Literature searching
