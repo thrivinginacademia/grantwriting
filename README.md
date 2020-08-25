@@ -37,7 +37,7 @@ _**What are some terms that describe great science?**_
 ***
 # Constructing a flow of logic
 ![From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.](images/logic.JPG)
-< *From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.*
+*From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.*
 
 ### Gap in knowledge
 ### Objectives
