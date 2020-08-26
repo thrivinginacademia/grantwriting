@@ -47,7 +47,7 @@ _**What are some terms that describe great science?**_
 
 The body of your proposal should follow a logical path and address the following points, as described in *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section,* freely available for download [here:](http://www.grantcentral.com/downloads-nsf/)
 
-### Intro paragraph
+### Introductory paragraph
 * Opening sentence
   * should be arresting; remember your hook!
   * relevant to the program you're applying to 
@@ -65,13 +65,26 @@ The body of your proposal should follow a logical path and address the following
   * must be simple, direct and must relate to the preceding current knowledge
   * all of the logic downstream will evolve from this gap
 
-### Long-term goal
-* continuation of research 
 
-### Overall objective
-* what will be accomplished 
-* links to gap 
+### “What, Why, Who” Paragraph
 
+* Long-term goal
+  * continuum of research 
+
+* Overall objective
+  * what will be accomplished 
+  * links back to gap in knowledge
+
+* Central hypothesis
+  * the hypothesis that must be tested to to attain your overall objective
+  * set up presentaion of your specific aims
+  * also include here any preliminary data that support the central hypothesis, if you have any
+  
+* Rationale
+  * Link back to gap, but put a positive spin on the "problem" statement. What happens if the gap is filled?
+    * "Once X is identified, Y can happen,” where Y is something of interest to your audience
+  
+### Specific Aims
 
 
 
