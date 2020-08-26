@@ -49,7 +49,7 @@ The body of your proposal should follow a logical path and address the following
 
 ### Intro paragraph
 * Opening sentence
-  * should be arresting; pull from your hook!
+  * should be arresting; remember your hook!
   * relevant to the program you're applying to 
   * establish that it's an important topic (avoid truisms)
 
