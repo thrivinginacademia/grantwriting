@@ -39,47 +39,47 @@ _**What are some terms that describe great science?**_
 
 ***
 # Constructing a flow of logic
-The body of your proposal should follow a logical path and address the following points, as described in *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section,* available for download [here:](http://www.grantcentral.com/downloads-nsf/)
-* Introduction
-* 
-* 
-* 
-
-Intro paragraph
-Opening sentence
--arresting
--program relevant 
--important (not truism)
-
-Current knowledge
--2-3 sentences
--inform reviewers of current state of knowledge
--oldest → newest
--establish yourself as expert
-
-Gap in knowledge
--next step needed to advance field 
--important problem, blocking progress
-
-Long-term goal
--continuum of research 
-
-Overall objective
--what will be accomplished 
--links to gap 
 
 
-![From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.](images/logic.JPG)
+### LINEAR PROGRESSION OF LOGIC FOR A STRONG OVERVIEW & OBJECTIVES SECTION
+![From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.](images/logic.png)
 *From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.*
 
-### Gap in knowledge
-### Objectives
-### Hypotheses
-### Specific aims
+The body of your proposal should follow a logical path and address the following points, as described in *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section,* freely available for download [here:](http://www.grantcentral.com/downloads-nsf/)
+
+### Intro paragraph
+* Opening sentence
+- should be arresting; pull from your hook!
+- relevant to the program you're applying to 
+- establish that it's an important topic (avoid truisms)
+
+* Current knowledge
+- 2-3 sentences total
+- inform reviewers of current state of knowledge, but know your audience!
+- present oldest → newest
+- establish yourself as expert
+
+* Gap in knowledge
+- point out that this next step is needed to advance the field 
+- establish that this is an important problem and it being unknown is blocking progress
+- must be simple, direct and must relate to the preceding current knowledge
+- all of the logic downstream will evolve from this gap
+
+### Long-term goal
+- continuation of research 
+
+### Overall objective
+- what will be accomplished 
+- links to gap 
+
+
+
+
+
 
 #### Exercise
-1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section.](http://www.grantcentral.com/downloads-nsf/)
-2. Continue developing your "hook" into a 1-2 paragraph description of your topic. This should encompass the gap through to central hypothesis as described above and in the suggested reading. Focus on the clarity of ideas rather than elegant text, and remember: Keep it Simple! 
+1. Complete *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bulleted Outline for your Overview and Obectives Section,* downloadable from [here,](http://www.grantcentral.com/downloads-nsf/) to create a bulleted outline of your proposal.
+2. Continue developing your "hook" and bulleted outline into a 1-2 paragraph description of your topic. This should encompass the gap through to central hypothesis as described above and in the suggested reading. Focus on the clarity of ideas rather than elegant text, and remember: Keep it Simple! 
 
 ***
 # Literature searching
