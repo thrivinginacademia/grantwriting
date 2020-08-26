@@ -251,6 +251,7 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 ### Tip
 Your title should emphasize the payoff---the *product* of the research. 
 
+# Additional resources
 
 ***
 # References
@@ -258,7 +259,6 @@ Your title should emphasize the payoff---the *product* of the research.
 
 # Copyright
 All material preseneted is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
-
 
 
 
