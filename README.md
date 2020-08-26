@@ -49,28 +49,28 @@ The body of your proposal should follow a logical path and address the following
 
 ### Intro paragraph
 * Opening sentence
-** should be arresting; pull from your hook!
-** relevant to the program you're applying to 
-** establish that it's an important topic (avoid truisms)
+  * should be arresting; pull from your hook!
+  * relevant to the program you're applying to 
+  * establish that it's an important topic (avoid truisms)
 
 * Current knowledge
-** 2-3 sentences total
-** inform reviewers of current state of knowledge, but know your audience!
-** present oldest → newest
-** establish yourself as expert
+  * 2-3 sentences total
+  * inform reviewers of current state of knowledge, but know your audience!
+  * present oldest → newest
+  * establish yourself as expert
 
 * Gap in knowledge
-** point out that this next step is needed to advance the field 
-** establish that this is an important problem and it being unknown is blocking progress
-** must be simple, direct and must relate to the preceding current knowledge
-** all of the logic downstream will evolve from this gap
+  * point out that this next step is needed to advance the field 
+  * establish that this is an important problem and it being unknown is blocking progress
+  * must be simple, direct and must relate to the preceding current knowledge
+  * all of the logic downstream will evolve from this gap
 
 ### Long-term goal
-** continuation of research 
+* continuation of research 
 
 ### Overall objective
-** what will be accomplished 
-** links to gap 
+* what will be accomplished 
+* links to gap 
 
 
 
