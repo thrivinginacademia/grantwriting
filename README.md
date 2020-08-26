@@ -111,93 +111,91 @@ Write a series of questions/sub-headings addressing each aspect of your central 
 # Developing a plan
 
 
-Introduction 
-“This is the conceptual overview of the aim”
-Want to hook the reader and explain why this aim is worthwhile
-Give a brief summary 
-Justification of approach
-Think of overall outcome in Aim
+* Introduction 
+  * “This is the conceptual overview of the aim”
+  * Want to hook the reader and explain why this aim is worthwhile
+  * Give a brief summary 
+  * Justification of approach
+  * Think of overall outcome in Aim
 
-Research Design (How you will do it)
-Arrange the Aims in a logical flow
-Make sure the aims (especially their outcome) aren’t dependent on other aims to be successful 
-Experimental design vs. methodology 
-Won’t be detailed methods of equipment and reagents 
-Replication
-Randomization 
-Controls (most important)
-Positive vs negative
-Limitations of technology 
-Limitations of technique 
-Look in the literature 
-When writing your experimental design: How do you know what level of detail is appropriate (is it citable)
-Citable 
-Fits space 
-Analysis framework 
-Critical reagents difficult to retain 
-Timeline
-Sampling points
+* Research Design (How you will do it)
+  * Arrange the Aims in a logical flow
+  * Make sure the aims (especially their outcome) aren’t dependent on other aims to be successful 
+  * Experimental design vs. methodology 
+  * Won’t be detailed methods of equipment and reagents 
+  * Replication
+  * Randomization 
+  * Controls (most important)
+  * Positive vs negative
+  * Limitations of technology 
+  * Limitations of technique 
+  * Look in the literature 
+  * When writing your experimental design: How do you know what level of detail is appropriate (is it citable)
+  * Citable 
+  * Fits space 
+  * Analysis framework 
+  * Critical reagents difficult to retain 
+  * Timeline
+  * Sampling points
 
-Expected outcomes 
-Show you understand what type of data
-Potential problems/alternative approaches 
-Demonstrate expertise and head off any reviewer concerns 
-Will this be a common concern 
-Alterative strategy 
+* Expected outcomes 
+  * Show you understand what type of data
+  * Potential problems/alternative approaches 
+  * Demonstrate expertise and head off any reviewer concerns 
+  * Will this be a common concern 
+  * Alterative strategy 
 
 
 
-Use strong language:
-hope , try ---> we will
-Ask yourself is their sufficient detail in my hands … conceptional aspects of the aim 
+* Use strong language:
+  * hope , try ---> we will
+  * Ask yourself is their sufficient detail in my hands … conceptional aspects of the aim 
 highlight resources on campus that make you the ideal researcher
 
-Characteristics of a great hypothesis 
-Testable
-Falsifiable 
-Can be clearly refuted 
-General 
-Also, generate new streams of ideas (is going to be interesting in 10 years)
-Rooted in existing knowledge 
-Thought about the alternative hypothesis 
-Simple/straight forwarded
+* Characteristics of a great hypothesis 
+  * Testable
+  * Falsifiable 
+  * Can be clearly refuted 
+  * General 
+  * Also, generate new streams of ideas (is going to be interesting in 10 years)
+  * Rooted in existing knowledge 
+  * Thought about the alternative hypothesis 
+  * Simple/straight forwarded
 
 #### Exercise 
 Fill out the Aims in the general format below: 
-Aim 1: Title
-Introduction
-Research Design
-Expected Outcomes
-Potential problem and alternate approaches
+* Aim 1: Title
+  * Introduction
+  * Research Design
+  * Expected Outcomes
+  * Potential problem and alternate approaches
 
 ***
 # Figures and displays
-
-
-Purposes of displays:
-Give information in reduced space
-Give information more clearly
-Provide compelling preliminary data
-Provide proof of feasibility
-Stick in reviewer’s mind
-Provide visual break for reviewer
-Make proposal visually attractive
-Types of displays:
-Conceptual – illustrate concept or hypothesis, pose predictions graphically
-Summarize – present information in concise format
-Data – present preliminary results
-Experimental design – Explain experimental design/ methods
-Rules for better figures (from Rougier et al. 2014)
-Know your audience
-Identify your message
-Adapt the figure to the support medium (i.e. consider size and complexity)
-Captions are not optional
-Use color effectively
-Avoid “chartjunk”
-Must be fully legible when printed in black and white (9 pt Arial font or above)
-Integrating displays into text
-When do you want the reader to look at the display? Position as close as possible. 
-Explicitly send them to look at the display. E.g. “As can be seen from Fig. 3, …”
+* Purposes of displays:
+  * Give information in reduced space
+  * Give information more clearly
+  * Provide compelling preliminary data
+  * Provide proof of feasibility
+  * Stick in reviewer’s mind
+  * Provide visual break for reviewer
+  * Make proposal visually attractive
+* Types of displays:
+  * Conceptual – illustrate concept or hypothesis, pose predictions graphically
+  * Summarize – present information in concise format
+  * Data – present preliminary results
+  * Experimental design – Explain experimental design/ methods
+* Rules for better figures (from Rougier et al. 2014)
+  * Know your audience
+  * Identify your message
+  * Adapt the figure to the support medium (i.e. consider size and complexity)
+  * Captions are not optional
+  * Use color effectively
+  * Avoid “chartjunk”
+  * Must be fully legible when printed in black and white (9 pt Arial font or above)
+* Integrating displays into text
+  * When do you want the reader to look at the display? Position as close as possible. 
+  * Explicitly send them to look at the display. E.g. “As can be seen from Fig. 3, …”
 Conclusions/ big picture stuff in text, tell reader what you want them to conclude from the display. Give details in display title or caption. 
 Preliminary data - state why these data are important for specific aim. 
 Components of figure legends 
@@ -212,20 +210,20 @@ Key for any symbols/abbreviations
 Based on Style: Lesson in Clarity and Grace by Joseph Williams  
 
 Know what you want to say: as clearly and simply as possible 
-Exercise :
+#### Exercise
 Undertanding causal factors … lead to more effective treatment 
 Treatments that address excessive drinnking 
 We could more effectively treat students who drink excessively if we underant why they do 
 [subject] [verb] [object]
-Ten Principles for Writing Clearly
-Example 2:
+* Ten Principles for Writing Clearly
+> Example 2:
 Subject: The wolf’s jump (a walk through the woods)
 Verb: occurred
 Object: Little Red Riding Hood
 Once upon a time, Little Red 
 Nominalizations: when you turn a verb into a noun
 You see this all the time in scientific writing 
-Example 3:
+> Example 3:
 “The outsourcing of a high-tech work to Asia by corporation results in the loss of many jobs for American workers”
 Nominalizations: “the outsourcing of”
 “American workers lose jobs when high-tech jobs are outsourced to Asia”
@@ -240,6 +238,7 @@ Cohesion and coherence
 
 ***
 # Broader impacts
+{% include youtubePlayer.html id="2DEz6xwlHws" %}
 
 ***
 # Personal statements 
