@@ -40,10 +40,9 @@ _**What are some terms that describe great science?**_
 ***
 # Constructing a flow of logic
 
-
 **<center>LINEAR PROGRESSION OF LOGIC FOR A STRONG OVERVIEW & OBJECTIVES SECTION</center>**
 
-![From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.](images/logic.png)
+![From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bulleted Outline for your Overview and Objectives Section.](images/logic.png)
 *From The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 7 Online: Create a Bullet Outline for your Overview and Objectives Section.*
 
 The body of your proposal should follow a logical path and address the following points, as described in *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section,* freely available for download [here:](http://www.grantcentral.com/downloads-nsf/)
