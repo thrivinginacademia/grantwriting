@@ -96,7 +96,7 @@ The body of your proposal should follow a logical path and address the following
 #### Exercise
 1. Complete *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bulleted Outline for your Overview and Obectives Section,* downloadable from [here,](http://www.grantcentral.com/downloads-nsf/) to create a bulleted outline of your proposal.
 2. Continue developing your "hook" and bulleted outline into a 1-2 paragraph description of your topic. This should encompass the gap through to central hypothesis as described above and in the suggested reading. Focus on the clarity of ideas rather than elegant text, and remember: Keep it Simple! 
-3. Find a friend to review your hook or review your own using [this rubric.](files/hook_rubric.pdf)
+3. Find a friend to review your hook or review your own using [this rubric.](files/Hook_rubric.pdf)
 ***
 # Literature searching
 
