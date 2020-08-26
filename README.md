@@ -66,7 +66,7 @@ The body of your proposal should follow a logical path and address the following
   * all of the logic downstream will evolve from this gap
 
 
-### “What, Why, Who” Paragraph
+### “What, why, who” paragraph
 
 * Long-term goal
   * continuum of research 
@@ -81,14 +81,17 @@ The body of your proposal should follow a logical path and address the following
   * also include here any preliminary data that support the central hypothesis, if you have any
   
 * Rationale
-  * Link back to gap, but put a positive spin on the "problem" statement. What happens if the gap is filled?
-    * "Once X is identified, Y can happen,” where Y is something of interest to your audience
+  * link back to gap, but put a positive spin on the "problem" statement. What happens if the gap is filled?
+    * "once X is identified, Y can happen,” where Y is something of interest to your audience
   
-### Specific Aims
+### Specific aims
+* lay out that you will test parts of your central hypothesis, *or*
+* lay out tasks that will be undertaken to meet the need/fill the gap
 
-
-
-
+### "Payoff" paragraph
+* creativity, originality, and/or transformative potential
+* expected outcomes
+* positive impact on field
 
 #### Exercise
 1. Complete *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bulleted Outline for your Overview and Obectives Section,* downloadable from [here,](http://www.grantcentral.com/downloads-nsf/) to create a bulleted outline of your proposal.
