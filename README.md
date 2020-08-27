@@ -114,6 +114,8 @@ Effective literature searching involves identifying the appropriate breadth and 
 > This short video lays out a nice introduction on how to write a literature review. Even if you've written literature reviews before, it might be worth it to review the basics to get you going on the right track. Plus, the video links to several other helpful videos on the topic. 
 {% include youtubePlayer.html id="zIYC6zG265E" %}
 
+### Annotated bibliography
+It's in your benefit to create a simple, annotated bibliography to work from for your proposal. It doesn't have to be anything too fancy, just a way to have all your references organized with the major or relevant findings summarized for ease of use. 
 For a good example, see [this sample annotated bibliography](https://faculty.washington.edu/lbuckley/wordpress/wp-content/uploads/2013/05/Buckley2014_OxBib.pdf) by [Lauren Buckley](https://www.biology.washington.edu/people/profile/lauren-buckley), professor at University of Washington. 
 
 
