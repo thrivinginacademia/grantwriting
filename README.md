@@ -1,5 +1,5 @@
 # Grant-writing
-So you have to ask an organization for money for your research project? This might feel like a daunting task, but we'll walk you through it in this guide. You got this!
+So you have to ask an organization for money for your research project? This might feel like a daunting task, but we'll walk you through it in this guide. *You got this!*
 
 ***
 # Developing a hook
