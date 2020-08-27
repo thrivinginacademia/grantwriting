@@ -1,6 +1,7 @@
 # Grant-writing
 So you have to ask an organization for money for your research project? This might feel like a daunting task, but we'll walk you through it in this guide. *You got this!*
-
+![Image](images/grant.jpg)
+> Brian Taylor for [*The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/)
 ***
 # Developing a hook
 <link type="text/css" rel="stylesheet" href="css/main.css" />
@@ -33,7 +34,7 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 
 <br>
 
-_**What are some terms that describe great science?**_
+> What are some terms that describe great science?
 ![Image](images/wordcloud.png)
 
 #### Exercise
