@@ -128,16 +128,17 @@ For a good example, see [this sample annotated bibliography](https://faculty.was
 
 ***
 # Developing a plan
+If you've already done the section <h1>Construcing a flow of logic</hi>, this section will build off of that. Here is where we will fully flesh out the plan of your proposal. 
 
 
-* Introduction 
+### Introduction 
   * “This is the conceptual overview of the aim”
   * Want to hook the reader and explain why this aim is worthwhile
   * Give a brief summary 
   * Justification of approach
   * Think of overall outcome in Aim
 
-* Research Design (How you will do it)
+### Research Design (How you will do it)
   * Arrange the Aims in a logical flow
   * Make sure the aims (especially their outcome) aren’t dependent on other aims to be successful 
   * Experimental design vs. methodology 
@@ -157,7 +158,7 @@ For a good example, see [this sample annotated bibliography](https://faculty.was
   * Timeline
   * Sampling points
 
-* Expected outcomes 
+### Expected outcomes 
   * Show you understand what type of data
   * Potential problems/alternative approaches 
   * Demonstrate expertise and head off any reviewer concerns 
@@ -182,7 +183,7 @@ highlight resources on campus that make you the ideal researcher
   * Simple/straight forwarded
 
 #### Exercise 
-Fill out the Aims in the general format below: 
+1. Fill out your *Aims* in the general format below: 
 * Aim 1: Title
   * Introduction
   * Research Design
