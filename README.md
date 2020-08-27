@@ -2,7 +2,9 @@
 So you have to ask an organization for money for your research project? This might feel like a daunting task, but we'll walk you through it in this guide. *You got this!*
 ![Image](images/grant.jpg)
 > Brian Taylor for [*The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/)
+
 ***
+
 # Developing a hook
 <link type="text/css" rel="stylesheet" href="css/main.css" />
 This first step is *exploratory.* You have to let yourself be free! Don't overthink your answers, just jot things down. Yes, really jot! Grab a scrap paper and pen, or open a notepad on your computer, and make some notes to the following questions. You can do bullet points, word clouds, phrases, or compete sentences. Up to you! BE FREE!
