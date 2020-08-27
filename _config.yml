@@ -1,4 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Academic Survivorship
-subtitle: Introductory Grant-Writing
+baseurl: /grantwriting
 description: A supplementary resource to the UC Berkeley graduate-level course, Academic Survivorship
