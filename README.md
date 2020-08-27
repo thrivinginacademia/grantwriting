@@ -1,6 +1,3 @@
----
-title: test
----
 # testing
 # Developing a hook
 <link type="text/css" rel="stylesheet" href="css/main.css" />
