@@ -209,12 +209,12 @@ Figures and tables are essential parts of scientific papers and can be extremely
 
 > Kelly Krause, Creative Director at the publishing group *Nature*, gave this short presentation on The Basics of Information Design for Scientific Figures.
 {% include youtubePlayer.html id="Lb4uG4rIwPA" %}
-
-* Integrating displays into text
-  * When do you want the reader to look at the display? Position as close as possible. 
-  * Explicitly send them to look at the display. E.g. “As can be seen from Fig. 3, …”
-  * Conclusions/ big picture stuff in text, tell reader what you want them to conclude from the display. Give details in display title or caption. 
-  * Preliminary data - state why these data are important for specific aim. 
+<br>
+Okay, so you've got good figures now. How do you work them into the text? Here are some tips:
+  * When do you want the reader to look at the display? Position the display as close to the corresponding text as possible. 
+  * Explicitly send your readers to look at the display. E.g. “As can be seen from Fig. 3, …”
+  * In the text, focus on the conclusions or the "big picture" that you want them to conclude from the display. Then, give the details of the display in the display's title or caption. 
+  * If your display is preliminary data, state why these data are important for specific **aim**. 
 * Components of figure legends 
   * Brief title for figure
   * Description of main point/result of figure
