@@ -163,15 +163,15 @@ When writing your experimental design: How do you know what level of detail is a
 
 > **Tip:** Throughout your design writing, be sure to use strong language. For example, instead of stating that you "*hope*" or will "*try*" to achieve something, state that you **will!** You can also convey confidence by highlighting resources on campus that make you the ideal researcher for this project. 
 
-* Characteristics of a great hypothesis 
-  * Testable
+### Hypothesis
+Forming a hypothesis may sound simple, but it can be challenging to do! Here are some characteristics of a *great* hypothesis:
+  * Testable with a clear alternative hypothesis
   * Falsifiable 
-  * Can be clearly refuted 
+  	* Can be clearly refuted 
   * General 
-  * Also, generate new streams of ideas (is going to be interesting in 10 years)
+  * Generates new streams of ideas (is going to be interesting in 10 years?)
   * Rooted in existing knowledge 
-  * Thought about the alternative hypothesis 
-  * Simple/straight forwarded
+  * Simple/straight-forward
 
 #### Exercise 
 1. Fill out your *Aims* in the general format below: 
