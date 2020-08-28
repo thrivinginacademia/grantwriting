@@ -128,35 +128,31 @@ For a good example, see [this sample annotated bibliography](https://faculty.was
 
 ***
 # Developing a plan
-If you've already done the section <h1>Construcing a flow of logic</h1>, this section will build off of that. Here is where we will fully flesh out the plan of your proposal. 
-
+If you've already done the section **Constructing a flow of logic**, this section will build off of that. Here is where we will fully flesh out the plan of your proposal. 
 
 ### Introduction 
-  * “This is the conceptual overview of the aim”
-  * Want to hook the reader and explain why this aim is worthwhile
+The introduction is the conceptual overview of the **aim**. In this section you'll want to **hook** the reader and explain why the **aim** is worthwhile. 
   * Give a brief summary 
-  * Justification of approach
-  * Think of overall outcome in Aim
+  * Lay out the justification of the approach
+  * Think of the overall outcome in the **aim**
 
-### Research Design (How you will do it)
-  * Arrange the Aims in a logical flow
-  * Make sure the aims (especially their outcome) aren’t dependent on other aims to be successful 
-  * Experimental design vs. methodology 
-  * Won’t be detailed methods of equipment and reagents 
+### Research design
+The research design is really *"how you will do it."* You'll want to arrange the *aims* in a logical flow but make sure the aims are not dependent on each other's outcomes to be successful. This section is about *experimental design* more than it is about *methodology.* Don't focus on detailed  methods of equipment and reagents, but rather discuss broad techniques and how what they will produce. 
+Be sure to include the following in your design, where applicable:
   * Replication
   * Randomization 
   * Controls (most important)
-  * Positive vs negative
+ 	 * Positive vs. negative
   * Limitations of technology 
   * Limitations of technique 
-  * Look in the literature 
-  * When writing your experimental design: How do you know what level of detail is appropriate (is it citable)
-  * Citable 
-  * Fits space 
-  * Analysis framework 
-  * Critical reagents difficult to retain 
-  * Timeline
-  * Sampling points
+
+When writing your experimental design: How do you know what level of detail is appropriate? Consider the following: 
+  * Is it citable 
+  * Does it fit the space?
+  * What is the analysis framework?
+  * Are critical reagents difficult to retain?
+  * What is the timeline of the project?
+  * What are the sampling points?
 
 ### Expected outcomes 
   * Show you understand what type of data
@@ -165,12 +161,7 @@ If you've already done the section <h1>Construcing a flow of logic</h1>, this se
   * Will this be a common concern 
   * Alterative strategy 
 
-
-
-* Use strong language:
-  * hope , try ---> we will
-  * Ask yourself is their sufficient detail in my hands … conceptional aspects of the aim 
-highlight resources on campus that make you the ideal researcher
+> Tip: Throughout your design writing, be sure to use strong language. For example, instead of stating that you "*hope*" or will "*try*" to achieve something, state that you **will!** You can also convey confidence by highlighting resources on campus that make you the ideal researcher for this project. 
 
 * Characteristics of a great hypothesis 
   * Testable
@@ -267,8 +258,7 @@ Cohesion and coherence
 # Eye-catching titles
 The tile of the proposal should be brief, scientiiccally valid, intelligible for the audience, and potentially suitable for use in a public format as often times awarded proposal titles are lsited on websites, for example. 
 
-### Tip
-Your title should emphasize the payoff---the *product* of the research. 
+> Tip: Your title should emphasize the payoff---the *product* of the research. 
 
 # Additional resources
 
