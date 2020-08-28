@@ -182,21 +182,23 @@ Forming a hypothesis may sound simple, but it can be challenging to do! Here are
   * Potential problem and alternate approaches
 
 ***
-# Figures and displays
-* Purposes of displays:
+# Figures and tables
+Figures and tables are essential parts of scientific papers and can be extremely useful in proposals, too. Your proposal reviewer must be able to understand and interpret your proposal to select it for funding, and displays should be included with that goal in mind. Here are some purposes of displays, summarized: 
   * Give information in reduced space
   * Give information more clearly
   * Provide compelling preliminary data
   * Provide proof of feasibility
   * Stick in reviewer’s mind
-  * Provide visual break for reviewer
+  * Provide visual break for reviewer (*anectodally, this one seems to be important!*)
   * Make proposal visually attractive
+
 * Types of displays:
   * Conceptual – illustrate concept or hypothesis, pose predictions graphically
   * Summarize – present information in concise format
   * Data – present preliminary results
   * Experimental design – Explain experimental design/ methods
-* Rules for better figures (from Rougier et al. 2014)
+
+* Rules for better figures (from [Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833))
   * Know your audience
   * Identify your message
   * Adapt the figure to the support medium (i.e. consider size and complexity)
@@ -204,16 +206,22 @@ Forming a hypothesis may sound simple, but it can be challenging to do! Here are
   * Use color effectively
   * Avoid “chartjunk”
   * Must be fully legible when printed in black and white (9 pt Arial font or above)
+
 * Integrating displays into text
   * When do you want the reader to look at the display? Position as close as possible. 
   * Explicitly send them to look at the display. E.g. “As can be seen from Fig. 3, …”
-Conclusions/ big picture stuff in text, tell reader what you want them to conclude from the display. Give details in display title or caption. 
-Preliminary data - state why these data are important for specific aim. 
-Components of figure legends 
-Brief title for figure
-Description of main point/result of figure
-Methods required to interpret figure including sample sizes
-Key for any symbols/abbreviations
+  * Conclusions/ big picture stuff in text, tell reader what you want them to conclude from the display. Give details in display title or caption. 
+  * Preliminary data - state why these data are important for specific aim. 
+* Components of figure legends 
+  * Brief title for figure
+  * Description of main point/result of figure
+  * Methods required to interpret figure including sample sizes
+  * Key for any symbols/abbreviations
+
+
+#### Exercise
+1. Read [Ten Simple Rules for Better Figures by Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+2. Finish a complete draft of your research proposal.
 
 ***
 # Scientific writing 
