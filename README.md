@@ -165,13 +165,13 @@ When writing your experimental design: How do you know what level of detail is a
 
 ### Hypothesis
 Forming a hypothesis may sound simple, but it can be challenging to do! Here are some characteristics of a *great* hypothesis:
-  * Testable with a clear alternative hypothesis
-  * Falsifiable 
-		* Can be clearly refuted 
-  * General 
-  * Generates new streams of ideas (is going to be interesting in 10 years?)
-  * Rooted in existing knowledge 
-  * Simple/straight-forward
+* Testable with a clear alternative hypothesis
+* Falsifiable 
+	* Can be clearly refuted 
+* General 
+* Generates new streams of ideas (is going to be interesting in 10 years?)
+* Rooted in existing knowledge 
+* Simple/straight-forward
 
 #### Exercise 
 1. Fill out your *Aims* in the general format below: 
