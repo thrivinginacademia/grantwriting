@@ -128,7 +128,7 @@ For a good example, see [this sample annotated bibliography](https://faculty.was
 
 ***
 # Developing a plan
-If you've already done the section <h1>Construcing a flow of logic</hi>, this section will build off of that. Here is where we will fully flesh out the plan of your proposal. 
+If you've already done the section <h1>Construcing a flow of logic</h1>, this section will build off of that. Here is where we will fully flesh out the plan of your proposal. 
 
 
 ### Introduction 
