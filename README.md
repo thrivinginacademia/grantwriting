@@ -207,6 +207,9 @@ Figures and tables are essential parts of scientific papers and can be extremely
   * Avoid “chartjunk”
   * Must be fully legible when printed in black and white (9 pt Arial font or above)
 
+> Kelly Krause, Creative Director at the publishing group *Nature*, gave this short presentation on The Basics of Information Design for Scientific Figures.
+{% include youtubePlayer.html id="Lb4uG4rIwPA" %}
+
 * Integrating displays into text
   * When do you want the reader to look at the display? Position as close as possible. 
   * Explicitly send them to look at the display. E.g. “As can be seen from Fig. 3, …”
