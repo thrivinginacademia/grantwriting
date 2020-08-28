@@ -192,13 +192,15 @@ Figures and tables are essential parts of scientific papers and can be extremely
   * Provide visual break for reviewer (*anectodally, this one seems to be important!*)
   * Make proposal visually attractive
 
-* Types of displays:
+### Types of displays
+You may not know what displays you should include, just yet. Below are some types of displays to get you thinking:
   * Conceptual – illustrate concept or hypothesis, pose predictions graphically
   * Summarize – present information in concise format
   * Data – present preliminary results
   * Experimental design – Explain experimental design/ methods
 
-* Rules for better figures (from [Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833))
+### Better figures
+Figure design is not just about aesthetics. A well-designed, and intentionally-designed, will not only reduce distractions but will help the figure *do its job*. Here are some tips from [Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833).
   * Know your audience
   * Identify your message
   * Adapt the figure to the support medium (i.e. consider size and complexity)
@@ -215,11 +217,12 @@ Okay, so you've got good figures now. How do you work them into the text? Here a
   * Explicitly send your readers to look at the display. E.g. “As can be seen from Fig. 3, …”
   * In the text, focus on the conclusions or the "big picture" that you want them to conclude from the display. Then, give the details of the display in the display's title or caption. 
   * If your display is preliminary data, state why these data are important for specific **aim**. 
-* Components of figure legends 
-  * Brief title for figure
-  * Description of main point/result of figure
-  * Methods required to interpret figure including sample sizes
-  * Key for any symbols/abbreviations
+  
+Figure legends are just as important as the figure itself. Be sure your figure and legend includes:
+* Brief title for figure
+* Description of main point/result of figure
+* Methods required to interpret figure including sample sizes
+* Key for any symbols/abbreviations
 
 
 #### Exercise
