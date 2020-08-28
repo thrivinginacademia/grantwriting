@@ -137,7 +137,7 @@ The introduction is the conceptual overview of the **aim**. In this section you'
   * Think of the overall outcome in the **aim**
 
 ### Research design
-The research design is really *"how you will do it."* You'll want to arrange the *aims* in a logical flow but make sure the aims are not dependent on each other's outcomes to be successful. This section is about *experimental design* more than it is about *methodology.* Don't focus on detailed  methods of equipment and reagents, but rather discuss broad techniques and how what they will produce. 
+The research design is really *"how you will do it."* You'll want to arrange the **aims** in a logical flow but make sure the aims are not dependent on each other's outcomes to be successful. This section is about *experimental design* more than it is about *methodology.* Don't focus on detailed  methods of equipment and reagents, but rather discuss broad techniques and how what they will produce. 
 Be sure to include the following in your design, where applicable:
   * Replication
   * Randomization 
@@ -147,7 +147,7 @@ Be sure to include the following in your design, where applicable:
   * Limitations of technique 
 
 When writing your experimental design: How do you know what level of detail is appropriate? Consider the following: 
-  * Is it citable 
+  * Is it citable?
   * Does it fit the space?
   * What is the analysis framework?
   * Are critical reagents difficult to retain?
@@ -161,7 +161,7 @@ When writing your experimental design: How do you know what level of detail is a
   * Will this be a common concern 
   * Alterative strategy 
 
-> Tip: Throughout your design writing, be sure to use strong language. For example, instead of stating that you "*hope*" or will "*try*" to achieve something, state that you **will!** You can also convey confidence by highlighting resources on campus that make you the ideal researcher for this project. 
+> **Tip:** Throughout your design writing, be sure to use strong language. For example, instead of stating that you "*hope*" or will "*try*" to achieve something, state that you **will!** You can also convey confidence by highlighting resources on campus that make you the ideal researcher for this project. 
 
 * Characteristics of a great hypothesis 
   * Testable
@@ -258,7 +258,7 @@ Cohesion and coherence
 # Eye-catching titles
 The tile of the proposal should be brief, scientiiccally valid, intelligible for the audience, and potentially suitable for use in a public format as often times awarded proposal titles are lsited on websites, for example. 
 
-> Tip: Your title should emphasize the payoff---the *product* of the research. 
+> **Tip:** Your title should emphasize the payoff---the *product* of the research. 
 
 # Additional resources
 
