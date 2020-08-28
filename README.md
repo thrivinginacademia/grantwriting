@@ -1,4 +1,4 @@
-# Grant-writing
+# Grant writing
 So you have to ask an organization for money for your research project? This might feel like a daunting task, but we'll walk you through it in this guide. *You got this!*
 
 ![Image](images/grant.jpg)
@@ -262,6 +262,8 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 > **Tip:** Your title should emphasize the payoff---the *product* of the research. 
 
 # Additional resources
+[10 Tips for Successful Grant Writing, *The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/)
+
 
 ***
 # References
