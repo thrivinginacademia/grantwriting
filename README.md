@@ -240,6 +240,7 @@ The purpose of writing a proposal, in particular, is to persuade. You must take 
 -Matthew Arnold
 
 {% include youtubePlayer.html id="G5UGU9MV7Z0" %}
+<br>
 
 Much of scientific writing is needlessly complex and obscures, rather than illuminates, the meaning. Consider the following sentence: 
 * “An understanding of the causal factors involved in excessive drinking by students could lead to their more effective treatment.” 
