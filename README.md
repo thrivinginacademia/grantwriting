@@ -273,17 +273,19 @@ Try re-writing the following sentence:
 * “Once upon a time, as a walk through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s jump out from behind a tree occurred, causing her fright.” 
 
 
-The sentence structure above should come across as silly when it's used in a familiar story with characters and actions we know of. Yet, this structure can blend in better--and does, entirely too often--within scientific writing that is perhaps a little less natural to us. However, this structure does *not* increase clarity! In fact, it hinders it. 
-[subject] [verb] [object]
+The sentence structure above may come across as silly when it's used in a familiar story with characters and actions we know of. Yet, this structure can blend in better--and does, entirely too often--within scientific writing. However, this structure does *not* increase clarity! In fact, it hinders it. 
+
+So how do we prevent it?
+
+| Subject | Verb | Object |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 
 
-> Example 2:
-Subject: The wolf’s jump (a walk through the woods)
-Verb: occurred
-Object: Little Red Riding Hood
-Once upon a time, Little Red 
-Nominalizations: when you turn a verb into a noun
-You see this all the time in scientific writing 
+Main characters should be subjects of verbs
+* "Once upon a time, Little Red Riding Hood was walking through the woods, when the Wolf jumped out from behind a tree and frightened her."
+
 
 
 > Example 3:
