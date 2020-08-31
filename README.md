@@ -257,7 +257,7 @@ Which version is clearer? Likely, you picked the second version. Think about the
 7. Begin sentences constituting a paragraph with consistent topics/subjects
 8. Be concise
 9. Control sprawl
-10. Above all, **write to others as you would have others write to you**. 
+10. Above all, *write to others as you would have others write to you*. 
 
 
 <script async class="speakerdeck-embed" data-id="5073fb290864415282b7d8bea4a27f69" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
