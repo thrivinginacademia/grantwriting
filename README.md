@@ -278,7 +278,7 @@ The sentence structure above may come across as silly when it's used in a famili
 So how do we prevent it?
 
 | Subject | Verb | Object |
-| ------------- | ------------- | ------------- |
+| ------- | ------- | ------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
