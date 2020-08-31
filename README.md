@@ -232,8 +232,10 @@ Figure legends are just as important as the figure itself. Be sure your figure a
 ***
 # Scientific writing 
 The goal of scientific writing is to say precisely what you want to say as clearly and as simply as possible. 
-
 {% include youtubePlayer.html id="G5UGU9MV7Z0" %}
+
+### Writing as craft
+The purpose of writing a proposal, in particular, is to persuade. You must take the reader by the hand from *what they already know* to *what you want them to know.*
 
 <script async class="speakerdeck-embed" data-id="5073fb290864415282b7d8bea4a27f69" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -284,14 +286,27 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 
 > **Tip:** Your title should emphasize the payoff---the *product* of the research. 
 
+***
 # Additional resources
 [10 Tips for Successful Grant Writing, *The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/)
 
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 ***
 # References
 [Morrison, D. C., and Russell, S. W. 2012. The Grant Application Writer's Workbook: National Science Foundation - FastLane Version.](http://www.grantcentral.com/workbooks/national-science-foundation/)
 
+[Williams, Joseph M. 1988. Style: Ten Lessons in Clarity and Grace. Scott, Foresman, & Co.](http://www.jaconlinejournal.com/archives/vol3/crowley-style.pdf)
+
+***
 # Copyright
 All material preseneted is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
 
