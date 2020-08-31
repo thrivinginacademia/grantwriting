@@ -267,7 +267,7 @@ Here we present *ten principles* of writing clearly. Study them, review them, in
 10. Above all, *write to others as you would have others write to you*. 
 
 ### Sentences as stories
-You might have noticed the two sample sentences above differed in the order of the sentence. The first went **"understanding" > "treatment,"** and the second was** "treat" > "understand."** Why does the order make such a difference? This is partly principle 2 above: use subjects to name characters in your story. A treatment does not simply exist: a person or a group does the treating--"we could more effectively treat..." Likewise, an understanding does not exist without a person to understand it. Use subjects and verbs intentionally.
+You might have noticed the two sample sentences above differed in the order of the sentence. The first went *"understanding" > "treatment,"* and the second was *"treat" > "understand."* Why does the order make such a difference? This is partly principle 2 above: use subjects to name characters in your story. A treatment does not simply exist: a person or a group does the treating--"we could more effectively treat..." Likewise, an understanding does not exist without a person to understand it. Use subjects and verbs intentionally.
 
 Try re-writing the following sentence:
 * “Once upon a time, as a walk through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s jump out from behind a tree occurred, causing her fright.” 
