@@ -239,8 +239,13 @@ The purpose of writing a proposal, in particular, is to persuade. You must take 
 > “Have something to say, and say it as clearly as you can, That is the only secret of style”
 -Matthew Arnold
 
+If you've been following along with the *Exercises* in this guide, you've already written a complete draft. Congratulations! Especially if it was your first time writing on this subject, it might have been painful. But don't let it be: the first draft of an idea WILL be badly written! Rejoice in producing crappy prose.
+As you revise it, you will make it clearer, and in the process will understand the ideas better yourself. 
+The first step is always to organize your ideas to the extent that is currently possible, then start drafting. Importantly, separate drafting from editing. It can be very tempting to write and re-write a setence over and over, essentially flipping back and forth between drafting and editing, without getting any farther along in your draft. Don't do that! Remember these words: "Write when you write, edit when you edit."
+
 {% include youtubePlayer.html id="G5UGU9MV7Z0" %}
 <br>
+> K.I.S.S., Keep It Simple, Students!
 
 Much of scientific writing is needlessly complex and obscures, rather than illuminates, the meaning. Consider the following sentence: 
 * “An understanding of the causal factors involved in excessive drinking by students could lead to their more effective treatment.” 
@@ -248,7 +253,8 @@ Much of scientific writing is needlessly complex and obscures, rather than illum
 
 Which version is clearer? Likely, you picked the second version. Think about the differences between the two versions and just what exactly makes the second clearer than the first. 
 
-### Ten principles for writing clearly
+### Ten principles
+Here we present *ten principles* of writing clearly. Study them, review them, internalize them, and soon they'll become second-nature when writing.
 1. Distinguish real grammatical rules from folklore
 2. Use subjects to name characters in your story
 3. Use verbs to name important actions
@@ -261,7 +267,9 @@ Which version is clearer? Likely, you picked the second version. Think about the
 10. Above all, *write to others as you would have others write to you*. 
 
 ### Sentences as stories
+You might have noticed the two sample sentences above differed in the order of the sentence. The first went "understanding" > "treatment," and the second was "treat" > "understand." Why does the order make such a difference? This is partly principle 2 above: use subjects to name characters in your story. A treatment does not simply exist: a person or a group does the treating--"we could more effectively treat..." Likewise, an understanding does not exist without a person to understand it. Use subjects and verbs intentionally.
 
+Try re-writing the following sentence:
 * “Once upon a time, as a walk through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s jump out from behind a tree occurred, causing her fright.” 
 
 [subject] [verb] [object]
