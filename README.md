@@ -272,6 +272,8 @@ You might have noticed the two sample sentences above differed in the order of t
 Try re-writing the following sentence:
 * “Once upon a time, as a walk through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s jump out from behind a tree occurred, causing her fright.” 
 
+
+The sentence structure above should come across as silly when it's used in a familiar story with characters and actions we know of. Yet, this structure can blend in better--and does, entirely too often--within scientific writing that is perhaps a little less natural to us. However, this structure does *not* increase clarity! In fact, it hinders it. 
 [subject] [verb] [object]
 
 
