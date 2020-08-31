@@ -232,10 +232,33 @@ Figure legends are just as important as the figure itself. Be sure your figure a
 ***
 # Scientific writing 
 The goal of scientific writing is to say precisely what you want to say as clearly and as simply as possible. 
-{% include youtubePlayer.html id="G5UGU9MV7Z0" %}
+> “Write unto others as you would they write unto you”
 
 ### Writing as craft
-The purpose of writing a proposal, in particular, is to persuade. You must take the reader by the hand from *what they already know* to *what you want them to know.*
+The purpose of writing a proposal, in particular, is to persuade. You must take the reader by the hand from *what they already know* to *what you want them to know.* To be most effective, you will want to write with **clarity** and **style,** but it takes practice!
+> “Have something to say, and say it as clearly as you can, That is the only secret of style”
+-Matthew Arnold
+
+{% include youtubePlayer.html id="G5UGU9MV7Z0" %}
+
+Much of scientific writing is needlessly complex and obscures, rather than illuminates, the meaning. Consider the following sentence: 
+* “An understanding of the causal factors involved in excessive drinking by students could lead to their more effective treatment.” 
+* “We could more effectively treat students who drink excessively if we understand why they do”
+
+Which version is clearer? Likely, you picked the second version. Think about the differences between the two versions and just what exactly makes the second clearer than the first. 
+
+### Ten principles for writing clearly
+1. Distinguish real grammatical rules from folklore
+2. Use subjects to name characters in your story
+3. Use verbs to name important actions
+4. Open your sentences with familiar information
+5. Get to the main verb quickly
+6. Push new, complex information to the end of the sentence
+7. Begin sentences constituting a paragraph with consistent topics/subjects
+8. Be concise
+9. Control sprawl
+10. Above all, **write to others as you would have others write to you**. 
+
 
 <script async class="speakerdeck-embed" data-id="5073fb290864415282b7d8bea4a27f69" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
