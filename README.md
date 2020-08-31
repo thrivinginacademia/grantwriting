@@ -243,7 +243,7 @@ The purpose of writing a proposal, in particular, is to persuade. You must take 
 
 Much of scientific writing is needlessly complex and obscures, rather than illuminates, the meaning. Consider the following sentence: 
 * “An understanding of the causal factors involved in excessive drinking by students could lead to their more effective treatment.” 
-* “We could more effectively treat students who drink excessively if we understand why they do”
+* “We could more effectively treat students who drink excessively if we understand why they do.”
 
 Which version is clearer? Likely, you picked the second version. Think about the differences between the two versions and just what exactly makes the second clearer than the first. 
 
@@ -259,14 +259,11 @@ Which version is clearer? Likely, you picked the second version. Think about the
 9. Control sprawl
 10. Above all, *write to others as you would have others write to you*. 
 
+### Sentences as stories
 
-<script async class="speakerdeck-embed" data-id="5073fb290864415282b7d8bea4a27f69" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+* “Once upon a time, as a walk through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s jump out from behind a tree occurred, causing her fright.” 
 
-Understanding causal factors … lead to more effective treatment 
-Treatments that address excessive drinnking 
-We could more effectively treat students who drink excessively if we underant why they do 
 [subject] [verb] [object]
-* Ten Principles for Writing Clearly
 
 
 > Example 2:
