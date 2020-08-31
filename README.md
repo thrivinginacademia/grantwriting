@@ -232,15 +232,17 @@ Figure legends are just as important as the figure itself. Be sure your figure a
 ***
 # Scientific writing 
 {% include youtubePlayer.html id="G5UGU9MV7Z0" %}
-Based on Style: Lesson in Clarity and Grace by Joseph Williams  
-
 Know what you want to say: as clearly and simply as possible 
-#### Exercise
-Undertanding causal factors … lead to more effective treatment 
+
+<script async class="speakerdeck-embed" data-id="5073fb290864415282b7d8bea4a27f69" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+Understanding causal factors … lead to more effective treatment 
 Treatments that address excessive drinnking 
 We could more effectively treat students who drink excessively if we underant why they do 
 [subject] [verb] [object]
 * Ten Principles for Writing Clearly
+
+
 > Example 2:
 Subject: The wolf’s jump (a walk through the woods)
 Verb: occurred
@@ -248,6 +250,8 @@ Object: Little Red Riding Hood
 Once upon a time, Little Red 
 Nominalizations: when you turn a verb into a noun
 You see this all the time in scientific writing 
+
+
 > Example 3:
 “The outsourcing of a high-tech work to Asia by corporation results in the loss of many jobs for American workers”
 Nominalizations: “the outsourcing of”
@@ -259,6 +263,8 @@ Noun strings:
 Early childhood thought disorder misdiagnosis often result from
 Physicians misdiagnose disorders in early childhood
 Cohesion and coherence 
+
+#### Exercise
 
 
 ***
