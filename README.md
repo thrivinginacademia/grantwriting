@@ -231,8 +231,9 @@ Figure legends are just as important as the figure itself. Be sure your figure a
 
 ***
 # Scientific writing 
+The goal of scientific writing is to say precisely what you want to say as clearly and as simply as possible. 
+
 {% include youtubePlayer.html id="G5UGU9MV7Z0" %}
-Know what you want to say: as clearly and simply as possible 
 
 <script async class="speakerdeck-embed" data-id="5073fb290864415282b7d8bea4a27f69" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -265,7 +266,9 @@ Physicians misdiagnose disorders in early childhood
 Cohesion and coherence 
 
 #### Exercise
-
+1. Read [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan.
+2. Edit your draft for increased clarity.
+	* Send your draft to your reviewers for feedback! Be sure to tell your reviewers what you'd like feedback on, in particular, if anything. 
 
 ***
 # Broader impacts
