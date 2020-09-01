@@ -285,13 +285,30 @@ Main characters should be the subjects of the verbs. In the Red Riding Hood exam
 Your re-write of the sentence may have been something like this:
 * "Once upon a time, **Little Red Riding Hood** was walking through the woods, when **the Wolf** jumped out from behind a tree and frightened her."
 
-This is a great improvement in clarity and style. The subjects are now appropriately "Little Red Riding Hood" and the object is 
+This is a great improvement in clarity and style. The subjects are now appropriately the characters "Little Red Riding Hood" and "the Wolf" and they are the ones doing the actions (verbs). 
 
+The phenomenon in the first version of the Little Red Riding Hood sentence is "nominalization." This refers to nouns that are created from verbs or adjectives. In general, it is best to avoid nominalizations and use the verbs, instead. 
+| Noun | Verb |
+| ---- | ---- |
+| Intention | Intend |
+| Intervention | Intervene |
+| Distortion | Distort |
+| Evolution | Evolve |
+| Interference | Interfere | 
+| Discrimination | Discriminate |
+| Decision | Decide |
+| Assumption | Assume |
+| Collection | Collect |
+| Investigation | Investigate |
+| Expansion | Expand |
+| Disagreement | Disagree |
+| Discussion | Discuss |
+| Argument | Argue |
+| Failure | Fail |  
 
-> Example 3:
-“The outsourcing of a high-tech work to Asia by corporation results in the loss of many jobs for American workers”
-Nominalizations: “the outsourcing of”
-“American workers lose jobs when high-tech jobs are outsourced to Asia”
+* *“The outsourcing of a high-tech work to Asia by corporation results in the loss of many jobs for American workers”
+	* Nominalizations: “the outsourcing of”
+	* *“American workers lose jobs when high-tech jobs are outsourced to Asia”
 Bad: The intention of the committee is to improve morale
 Good: The committee intends to improve morale 
 Think about characters
