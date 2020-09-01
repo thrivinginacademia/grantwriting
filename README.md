@@ -313,7 +313,7 @@ The phenomenon in the first version of the Little Red Riding Hood sentence is "n
 	* Rewrite nominalizations as verbs
 	* Rewrite using subordinating conjunctions (because, when, although, why, how, whether, that) 
 
-### Noun strings
+#### Noun strings
 Noun strings are exactly what they sound like: strings of nouns in a row in a sentence! It is easy to get lost in a noun string and you never want the reader to be lost in your proposal. Here's an example:
 * Early childhood thought disorder misdiagnosis often results from...
 While that string of nouns might technically be correct, it lacks in *clarity* and *style.* To correct it, add a character, reverse the order of the words, and find prepositions to connect them. For example:
