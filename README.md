@@ -288,6 +288,7 @@ Your re-write of the sentence may have been something like this:
 This is a great improvement in clarity and style. The subjects are now appropriately the characters "Little Red Riding Hood" and "the Wolf" and they are the ones doing the actions (verbs). 
 
 The phenomenon in the first version of the Little Red Riding Hood sentence is "nominalization." This refers to nouns that are created from verbs or adjectives. In general, it is best to avoid nominalization and use the verbs, instead. 
+
 | Noun | Verb |
 | ---- | ---- |
 | Intention | Intend |
