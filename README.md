@@ -321,10 +321,22 @@ While that string of nouns might technically be correct, it lacks in *clarity* a
 | ------------ | ---- | ---------| --------- | ------ | ------------ |
 | (Physicians) | misdiagnose | disordered | thought | in early | childhood |
 
+
+### Cohesion
+Cohesive writing is characterized by the last words of one sentence appearing at the beginning of the next sentence. This is part of what makes a piece have good "flow." Yet, if every sentence is beginning with the subject, how can we also end with the subject? In reality, your writing has to balance clarity with cohesion for a nice flow. You will want to begin sentences with familiar information and end with information that is new or that otherwise the reader cannot anticipate. You may have to use passive, rather than active, voice to achieve cohesion. 
+
+* Cohesion is the way the sentences add up to the whole picture
+* Consistent ideas towards beginning of sentences, coherent subjects
+* Paragraphs focus on a narrow set of related ideas
+* Don’t use “throat clearing” – starting sentences with lots of qualifiers
+* Use the end of your sentences to communicate long complex phrases, new information, and technical terms
+
+
 #### Exercise
 1. Read [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan.
 2. Edit your draft for increased clarity.
 	* Send your draft to your reviewers for feedback! Be sure to tell your reviewers what you'd like feedback on, in particular, if anything. 
+	* If you're reviewing someone else's writing, focus on cohesion or coherence as of the writing sample as a whole, but focus on one sentence to edit and improve clarity. 
 
 ***
 # Broader impacts
