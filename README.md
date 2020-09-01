@@ -277,7 +277,7 @@ The sentence structure above may come across as silly when it's used in a famili
 
 So how do we prevent it? The answer is simple: use subjects and verbs more intentionally. Remember the basic sentence structure of subject + verb and, sometimes, the object of the verb.
 <br>
-**Subject               Verb               Object**	
+**Subject       >       Verb       >       Object**	
 
 Main characters should be the subjects of the verbs. In the Red Riding Hood example, the subjects are "walk" and "jump," both of these verbs being used as nouns. My oh my, how very confusing, that is!
 * "Once upon a time, as a **walk** through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s **jump** out from behind a tree occurred, causing her fright."
