@@ -12,7 +12,7 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 > This short video about writing hooks is **not** specifically about grant proposals, but the principles apply. Check it out!
 {% include youtubePlayer.html id="MvjeLUuITlQ" %}
 
-### Questions to answer
+## Questions to answer
 * What are you passionate about, in terms of research?
 
 * What is the problem or need, and why is it important?
@@ -91,11 +91,11 @@ The body of your proposal should follow a logical path and address the following
   * link back to gap, but put a positive spin on the "problem" statement. What happens if the gap is filled?
     * "once X is identified, Y can happen,” where Y is something of interest to your audience
   
-### Specific aims
+## Specific aims
 * lay out that you will test parts of your central hypothesis, *or*
 * lay out tasks that will be undertaken to meet the need/fill the gap
 
-### "Payoff" paragraph
+## "Payoff" paragraph
 * creativity, originality, and/or transformative potential
 * expected outcomes
 * positive impact on field
@@ -130,13 +130,13 @@ For a good example, see [this sample annotated bibliography](https://faculty.was
 # Developing a plan
 If you've already done the section **Constructing a flow of logic**, this section will build off of that. Here is where we will fully flesh out the plan of your proposal. 
 
-### Introduction 
+## Introduction 
 The introduction is the conceptual overview of the **aim**. In this section you'll want to **hook** the reader and explain why the **aim** is worthwhile. 
   * Give a brief summary 
   * Lay out the justification of the approach
   * Think of the overall outcome in the **aim**
 
-### Research design
+## Research design
 The research design is really *"how you will do it."* You'll want to arrange the **aims** in a logical flow but make sure the aims are not dependent on each other's outcomes to be successful. This section is about *experimental design* more than it is about *methodology.* Don't focus on detailed  methods of equipment and reagents, but rather discuss broad techniques and how what they will produce. 
 Be sure to include the following in your design, where applicable:
   * Replication
@@ -154,7 +154,7 @@ When writing your experimental design: How do you know what level of detail is a
   * What is the timeline of the project?
   * What are the sampling points?
 
-### Expected outcomes 
+## Expected outcomes 
   * Show you understand what type of data
   * Potential problems/alternative approaches 
   * Demonstrate expertise and head off any reviewer concerns 
@@ -199,7 +199,7 @@ You may not know what displays you should include, just yet. Below are some type
   * Data – present preliminary results
   * Experimental design – Explain experimental design/ methods
 
-### Better figures
+## Better figures
 Figure design is not just about aesthetics. A well-designed, and intentionally-designed, will not only reduce distractions but will help the figure *do its job*. Here are some tips from [Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833).
   * Know your audience
   * Identify your message
@@ -253,7 +253,7 @@ Much of scientific writing is needlessly complex and obscures, rather than illum
 
 Which version is clearer? Likely, you picked the second version. Think about the differences between the two versions and just what exactly makes the second clearer than the first. 
 
-### Ten principles
+## Ten principles
 Here we present *ten principles* of writing clearly. Study them, review them, internalize them, and soon they'll become second-nature when writing.
 1. Distinguish real grammatical rules from folklore
 2. Use subjects to name characters in your story
@@ -313,7 +313,7 @@ The phenomenon in the first version of the Little Red Riding Hood sentence is "n
 	* Rewrite nominalizations as verbs
 	* Rewrite using subordinating conjunctions (because, when, although, why, how, whether, that) 
 
-#### Noun strings
+### Noun strings
 Noun strings are exactly what they sound like: strings of nouns in a row in a sentence! It is easy to get lost in a noun string and you never want the reader to be lost in your proposal. Here's an example:
 * Early childhood thought disorder misdiagnosis often results from...
 While that string of nouns might technically be correct, it lacks in *clarity* and *style.* To correct it, add a character, reverse the order of the words, and find prepositions to connect them. For example:
@@ -323,7 +323,7 @@ While that string of nouns might technically be correct, it lacks in *clarity* a
 | (Physicians) | misdiagnose | disordered | thought | in early | childhood |
 
 
-### Cohesion
+## Cohesion
 Cohesive writing is characterized by the last words of one sentence appearing at the beginning of the next sentence. This is part of what makes a piece have good "flow." Yet, if every sentence is beginning with the subject, how can we also end with the subject? In reality, your writing has to balance clarity with cohesion for a nice flow. You will want to begin sentences with familiar information and end with information that is new or that otherwise the reader cannot anticipate. You may have to use passive, rather than active, voice to achieve cohesion. 
 
 * Cohesion is the way the sentences add up to the whole picture
