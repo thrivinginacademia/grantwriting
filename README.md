@@ -292,8 +292,6 @@ The phenomenon in the first version of the Little Red Riding Hood sentence is "n
 | Noun | Verb |
 | ---- | ---- |
 | Intention | Intend |
-
-
 | Intervention | Intervene |
 | Distortion | Distort |
 | Evolution | Evolve |
