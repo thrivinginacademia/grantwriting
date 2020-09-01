@@ -347,6 +347,7 @@ Cohesive writing is characterized by the last words of one sentence appearing at
 
 ***
 # Personal statements 
+Not all grant proposals require a personal statement, but for those that do it can be just as important as the research proposal. In fact, many funding agencies have a philosophy to "fund the researcher, not the research" when it comes ot early career researchers, such as graduate students. Your personal statement should be original and impactful, and, importantly, in line with the audience. 
 
 ***
 # Eye-catching titles
@@ -377,10 +378,3 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 ***
 # Copyright
 All material preseneted is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
-
-
-
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
