@@ -276,13 +276,14 @@ Try re-writing the following sentence:
 The sentence structure above may come across as silly when it's used in a familiar story with characters and actions we know of. Yet, this structure can blend in better--and does, entirely too often--within scientific writing. However, this structure does *not* increase clarity! In fact, it hinders it. 
 
 So how do we prevent it? The answer is simple: use subjects and verbs more intentionally. Remember the basic sentence structure of subject + verb and, sometimes, the object of the verb.
-*Subject	Verb	Object*	
+<br>
+**Subject	Verb	Object**	
 
 Main characters should be the subjects of the verbs. In the Red Riding Hood example, the subjects are "walk" and "jump," both of these verbs being used as nouns. My oh my, how very confusing, that is!
-* "Once upon a time, as a *walk* through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s *jump* out from behind a tree occurred, causing her fright."
+* "Once upon a time, as a **walk** through the woods was taking place on the part of Little Red Riding Hood, the Wolf’s **jump** out from behind a tree occurred, causing her fright."
 
 Your re-write of the sentence may have been something like this:
-* "Once upon a time, *Little Red Riding Hood* was walking through the woods, when *the Wolf* jumped out from behind a tree and frightened her."
+* "Once upon a time, **Little Red Riding Hood** was walking through the woods, when **the Wolf** jumped out from behind a tree and frightened her."
 
 This is a great improvement in clarity and style. The subjects are now appropriately "Little Red Riding Hood" and the object is 
 
