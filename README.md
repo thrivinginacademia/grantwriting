@@ -332,7 +332,7 @@ Cohesive writing is characterized by the last words of one sentence appearing at
 * Use the end of your sentences to communicate long complex phrases, new information, and technical terms
 
 
-#### Exercise
+##### Exercise
 1. Read [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan.
 2. Edit your draft for increased clarity.
 	* Send your draft to your reviewers for feedback! Be sure to tell your reviewers what you'd like feedback on, in particular, if anything. 
