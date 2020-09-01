@@ -317,8 +317,9 @@ The phenomenon in the first version of the Little Red Riding Hood sentence is "n
 Noun strings are exactly what they sound like: strings of nouns in a row in a sentence! It is easy to get lost in a noun string and you never want the reader to be lost in your proposal. Here's an example:
 * Early childhood thought disorder misdiagnosis often results from...
 While that string of nouns might technically be correct, it lacks in *clarity* and *style.* To correct it, add a character, reverse the order of the words, and find prepositions to connect them. For example:
+
 | (Character) | early | childhood | thought | disorder| misdiagnosis |
-| ------------ | ---- | ---------| --------- | ------ | ------------ |
+| ------------ | ---- | --------- | --------- | ------ | ------------ |
 | (Physicians) | misdiagnose | disordered | thought | in early | childhood |
 
 
@@ -332,7 +333,7 @@ Cohesive writing is characterized by the last words of one sentence appearing at
 * Use the end of your sentences to communicate long complex phrases, new information, and technical terms
 
 
-##### Exercise
+#### Exercise
 1. Read [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan.
 2. Edit your draft for increased clarity.
 	* Send your draft to your reviewers for feedback! Be sure to tell your reviewers what you'd like feedback on, in particular, if anything. 
