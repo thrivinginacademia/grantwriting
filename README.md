@@ -306,16 +306,20 @@ The phenomenon in the first version of the Little Red Riding Hood sentence is "n
 | Argument | Argue |
 | Failure | Fail |  
 
-* *“The outsourcing of a high-tech work to Asia by corporation results in the loss of many jobs for American workers”
-	* Nominalizations: “the outsourcing of”
-	* *“American workers lose jobs when high-tech jobs are outsourced to Asia”
-Bad: The intention of the committee is to improve morale
-Good: The committee intends to improve morale 
-Think about characters
-Noun strings:
-Early childhood thought disorder misdiagnosis often result from
-Physicians misdiagnose disorders in early childhood
-Cohesion and coherence 
+* “The outsourcing of a high-tech work to Asia by corporation results in the loss of many jobs for American workers”
+	* Underline nouns
+	* Find main characters
+	* Look for actions they perform
+	* Rewrite nominalizations as verbs
+	* Rewrite using subordinating conjunctions (because, when, although, why, how, whether, that) 
+
+### Noun strings
+Noun strings are exactly what they sound like: strings of nouns in a row in a sentence! It is easy to get lost in a noun string and you never want the reader to be lost in your proposal. Here's an example:
+* Early childhood thought disorder misdiagnosis often results from...
+While that string of nouns might technically be correct, it lacks in *clarity* and *style.* To correct it, add a character, reverse the order of the words, and find prepositions to connect them. For example:
+| (Character) | early | childhood | thought | disorder| misdiagnosis |
+| ------------ | ---- | ---------| --------- | ------ | ------------ |
+| (Physicians) | misdiagnose | disordered | thought | in early | childhood |
 
 #### Exercise
 1. Read [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan.
