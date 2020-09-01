@@ -46,7 +46,7 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 3. Brainstorm a few sentences to "hook" your reader's interest. 
 
 ***
-# Constructing a flow of logic
+# Flow of logic
 The body of your proposal should follow a logical path and address the following points, as described in *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bullet Outline for your Overview and Obectives Section,* freely available for download [here:](http://www.grantcentral.com/downloads-nsf/)
 
 **<center>LINEAR PROGRESSION OF LOGIC FOR A STRONG OVERVIEW & OBJECTIVES SECTION</center>**
@@ -73,7 +73,7 @@ The body of your proposal should follow a logical path and address the following
   * all of the logic downstream will evolve from this gap
 
 
-### “What, why, who” paragraph
+### “What, why, who”
 
 * Long-term goal
   * continuum of research 
