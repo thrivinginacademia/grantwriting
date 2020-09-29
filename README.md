@@ -377,4 +377,4 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 
 ***
 # Copyright
-All material preseneted is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
+All material presented is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
