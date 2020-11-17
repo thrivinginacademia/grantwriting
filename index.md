@@ -356,6 +356,19 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 > **Tip:** Your title should emphasize the payoff---the *product* of the research. 
 
 ***
+# Presentations
+Here are some links to presentations from the UC Berkeley Department of Integrative Biology class IB 305 Academic Survivorship.
+
+[Developing an Idea](files/presentations/Week01_DevelopingAnIdea.pdf){:target="_blank"}
+
+[The Art of Scientific Writing](files/presentations/Week06_TheArtofScientificWriting.pdf){:target="_blank"}
+
+[Collaborations](files/presentations/Week10_Collaborations.pdf){:target="_blank"}
+
+[The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
+
+
+***
 # Additional resources
 [10 Tips for Successful Grant Writing, *The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/)
 
@@ -371,9 +384,9 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 
 ***
 # References
-[Morrison, D. C., and Russell, S. W. 2012. The Grant Application Writer's Workbook: National Science Foundation - FastLane Version.](http://www.grantcentral.com/workbooks/national-science-foundation/)
+[Morrison, D. C., and Russell, S. W. 2012. The Grant Application Writer's Workbook: National Science Foundation - FastLane Version.](http://www.grantcentral.com/workbooks/national-science-foundation/){:target="_blank"}
 
-[Williams, Joseph M. 1988. Style: Ten Lessons in Clarity and Grace. Scott, Foresman, & Co.](http://www.jaconlinejournal.com/archives/vol3/crowley-style.pdf)
+[Williams, Joseph M. 1988. Style: Ten Lessons in Clarity and Grace. Scott, Foresman, & Co.](http://www.jaconlinejournal.com/archives/vol3/crowley-style.pdf){:target="_blank"}
 
 ***
 # Copyright
