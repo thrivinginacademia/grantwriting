@@ -359,13 +359,10 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 # Presentations
 Here are some links to presentations from the UC Berkeley Department of Integrative Biology class IB 305 Academic Survivorship.
 
-[Developing an Idea](files/presentations/Week01_DevelopingAnIdea.pdf){:target="_blank"}
-
-[The Art of Scientific Writing](files/presentations/Week06_TheArtofScientificWriting.pdf){:target="_blank"}
-
-[Collaborations](files/presentations/Week10_Collaborations.pdf){:target="_blank"}
-
-[The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
+	* [Developing an Idea](files/presentations/Week01_DevelopingAnIdea.pdf){:target="_blank"}
+	* [The Art of Scientific Writing](files/presentations/Week06_TheArtofScientificWriting.pdf){:target="_blank"}
+	* [Collaborations](files/presentations/Week10_Collaborations.pdf){:target="_blank"}
+	* [The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
 
 
 ***
