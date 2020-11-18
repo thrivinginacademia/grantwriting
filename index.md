@@ -232,6 +232,7 @@ Figure legends are just as important as the figure itself. Be sure your figure a
 ***
 # Scientific writing 
 The concepts below are from the book [Style: Lessons in Clarity and Grace](http://www.st.chukyo-u.ac.jp/76ht/14-geraldine-dickinson/style-lessons-in-clarity-and-grace-0321479351.pdf){:target="_blank"} by Joseph M. Williams. We recommend reading this whole book to improve your scientific writing, but we present a few of our favorite points here. 
+
 The goal of scientific writing is to say precisely what you want to say as clearly and as simply as possible. 
 > “Write unto others as you would they write unto you”
 
