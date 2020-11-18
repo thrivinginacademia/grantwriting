@@ -2,7 +2,7 @@
 So you have to ask an organization for money for your research project? This might feel like a daunting task, but we'll walk you through it in this guide. *You got this!*
 
 ![Image](images/grant.jpg)
-> Brian Taylor for [*The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/)
+> Brian Taylor for [*The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/){:target="_blank"}
 
 ***
 
@@ -41,8 +41,8 @@ This first step is *exploratory.* You have to let yourself be free! Don't overth
 ![Image](images/wordcloud.png)
 
 ### Exercise
-1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 2: How to Develop and Optimize the Idea for your Grant Application.](http://www.grantcentral.com/workbooks/national-science-foundation/)
-2. Complete the [*Developing a research idea* worksheet.](files/Developing_a_research_idea.pdf)
+1. Read [The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Chapter 2: How to Develop and Optimize the Idea for your Grant Application.](http://www.grantcentral.com/workbooks/national-science-foundation/){:target="_blank"}
+2. Complete the [*Developing a research idea* worksheet.](files/Developing_a_research_idea.pdf){:target="_blank"}
 3. Brainstorm a few sentences to "hook" your reader's interest. 
 
 ***
@@ -101,7 +101,7 @@ The body of your proposal should follow a logical path and address the following
 * positive impact on field
 
 ### Exercise
-1. Complete *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bulleted Outline for your Overview and Obectives Section,* downloadable from [here,](http://www.grantcentral.com/downloads-nsf/) to create a bulleted outline of your proposal.
+1. Complete *The Grant Application Writer's Workbook: National Science Foundation - FastLane Version, Part Two, Chapter 7 Online: Create a Bulleted Outline for your Overview and Obectives Section,* downloadable from [here,](http://www.grantcentral.com/downloads-nsf/){:target="_blank"} to create a bulleted outline of your proposal.
 2. Continue developing your "hook" and bulleted outline into a 1-2 paragraph description of your topic. This should encompass the gap through to central hypothesis as described above and in the suggested reading. Focus on the clarity of ideas rather than elegant text, and remember: Keep it Simple! 
 3. Find a friend to review your hook or review your own using [this rubric.](files/Hook_rubric.pdf)
 
@@ -115,7 +115,7 @@ Effective literature searching involves identifying the appropriate breadth and 
 
 ## Annotated bibliography
 It's in your benefit to create a simple, annotated bibliography to work from for your proposal. It doesn't have to be anything too fancy, just a way to have all your references organized with the major or relevant findings summarized for ease of use. 
-For a good example, see [this sample annotated bibliography](https://faculty.washington.edu/lbuckley/wordpress/wp-content/uploads/2013/05/Buckley2014_OxBib.pdf) by [Lauren Buckley](https://www.biology.washington.edu/people/profile/lauren-buckley), professor at University of Washington. 
+For a good example, see [this sample annotated bibliography](https://faculty.washington.edu/lbuckley/wordpress/wp-content/uploads/2013/05/Buckley2014_OxBib.pdf){:target="_blank"} by [Lauren Buckley](https://www.biology.washington.edu/people/profile/lauren-buckley){:target="_blank"}, professor at University of Washington. 
 
 
 ### Exercise
@@ -226,11 +226,12 @@ Figure legends are just as important as the figure itself. Be sure your figure a
 
 
 ### Exercise
-1. Read [Ten Simple Rules for Better Figures by Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+1. Read [Ten Simple Rules for Better Figures by Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833){:target="_blank"}
 2. Finish a complete draft of your research proposal.
 
 ***
 # Scientific writing 
+The concepts below are from the book [Style: Lessons in Clarity and Grace](http://www.st.chukyo-u.ac.jp/76ht/14-geraldine-dickinson/style-lessons-in-clarity-and-grace-0321479351.pdf){:target="_blank"} by Joseph M. Williams. We recommend reading this whole book to improve your scientific writing, but we present a few of our favorite points here. 
 The goal of scientific writing is to say precisely what you want to say as clearly and as simply as possible. 
 > “Write unto others as you would they write unto you”
 
@@ -254,7 +255,7 @@ Much of scientific writing is needlessly complex and obscures, rather than illum
 Which version is clearer? Likely, you picked the second version. Think about the differences between the two versions and just what exactly makes the second clearer than the first. 
 
 ## Ten principles
-Here we present *ten principles* of writing clearly. Study them, review them, internalize them, and soon they'll become second-nature when writing.
+Here we present Joseph M. Williams' *ten principles* of writing clearly. Study them, review them, internalize them, and soon they'll become second-nature when writing.
 1. Distinguish real grammatical rules from folklore
 2. Use subjects to name characters in your story
 3. Use verbs to name important actions
@@ -335,7 +336,7 @@ Cohesive writing is characterized by the last words of one sentence appearing at
 
 
 ### Exercise
-1. Read [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf) by George D. Gopen and Judith A. Swan.
+1. Read [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf){:target="_blank"} by George D. Gopen and Judith A. Swan.
 2. Edit your draft for increased clarity.
 	* Send your draft to your reviewers for feedback! Be sure to tell your reviewers what you'd like feedback on, in particular, if anything. 
 	* If you're reviewing someone else's writing, focus on cohesion or coherence as of the writing sample as a whole, but focus on one sentence to edit and improve clarity. 
@@ -365,17 +366,17 @@ Below are download liks for presentations related to grant writing, from the UC 
 
 ***
 # Additional resources
-[10 Tips for Successful Grant Writing, *The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/)
+[10 Tips for Successful Grant Writing, *The Chronicle*](https://www.chronicle.com/article/10-tips-for-successful-grant-writing/){:target="_blank"}
 
-[]()
+[](){:target="_blank"}
 
-[]()
+[](){:target="_blank"}
 
-[]()
+[](){:target="_blank"}
 
-[]()
+[](){:target="_blank"}
 
-[]()
+[](){:target="_blank"}
 
 ***
 # References
