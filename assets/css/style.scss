@@ -371,4 +371,17 @@ footer {
     bottom:auto;
     width:auto;
   }
+  
+    #banner {
+    top: 80px;
+
+    .fork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
+  }
 }
