@@ -357,12 +357,10 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 
 ***
 # Presentations
-Here are some links to presentations from the UC Berkeley Department of Integrative Biology class IB 305 Academic Survivorship.
+Below are download liks for presentations related to grant writing, from the UC Berkeley Department of Integrative Biology class IB 305 Academic Survivorship. Survivorship. See thriving in academia presentations on the [thriving in academia](https://academic-survivorship.github.io/thriving/){:target="_blank"} of this course website.
 
 	* [Developing an Idea](files/presentations/Week01_DevelopingAnIdea.pdf){:target="_blank"}
 	* [The Art of Scientific Writing](files/presentations/Week06_TheArtofScientificWriting.pdf){:target="_blank"}
-	* [Collaborations](files/presentations/Week10_Collaborations.pdf){:target="_blank"}
-	* [The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
 
 
 ***
