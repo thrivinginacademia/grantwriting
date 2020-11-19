@@ -335,7 +335,10 @@ footer {
     margin-top: 5px;
   }
 
- 
+  #banner { display: none;}
+  header ul {
+    display:none;
+  }
 }
 
 @media print {
@@ -370,18 +373,5 @@ footer {
     left:auto;
     bottom:auto;
     width:auto;
-  }
-  
-    #banner {
-    top: 80px;
-
-    .fork {
-      float: left;
-      display: inline-block;
-      margin-left: 0px;
-    position:fixed;
-    left:20px;
-
-      }
   }
 }
