@@ -6,6 +6,15 @@
 .page-header{
 color:#003262;
 background-color:#C4820E;
+
+#logo {
+    position:absolute;
+    height: 50px;
+    left:5px;
+    top:5px;
+    display: block;
+    background: url('../../images/UCBerkeley_wordmark_white.svg');
+  }
 }
 
 header {
