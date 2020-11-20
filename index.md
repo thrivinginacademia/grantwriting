@@ -357,13 +357,6 @@ The tile of the proposal should be brief, scientiiccally valid, intelligible for
 
 > **Tip:** Your title should emphasize the payoff---the *product* of the research. 
 
-***
-# Presentations
-Below are download liks for presentations related to grant writing, from the UC Berkeley Department of Integrative Biology class IB 305 Thriving in Academia. See thriving in academia presentations on the [thriving in academia page](https://academic-survivorship.github.io/thriving/){:target="_blank"} of this course website.
-
-* [Developing an Idea](files/presentations/Week01_DevelopingAnIdea.pdf){:target="_blank"}
-* [The Art of Scientific Writing](files/presentations/Week06_TheArtofScientificWriting.pdf){:target="_blank"}
-
 
 ***
 # Additional resources
