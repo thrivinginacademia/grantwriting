@@ -339,15 +339,24 @@ footer {
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis;
     }
+    
+  }
+   #banner {
+    top: 80px;
+
+    .fork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
   }
   section {
     margin-top: 5px;
   }
 
-  #banner { display: none;}
-  header ul {
-    display:none;
-  }
 }
 
 @media print {
@@ -358,29 +367,11 @@ footer {
   }
 }
 
-@media print, screen and (max-height: 680px) {
+.mobileShow {display: none;} 
 
-  footer {
-    text-align: center;
-    margin: 20px auto;
-    position: relative;
-    left:auto;
-    bottom:auto;
-    width:auto;
+  /* Smartphone Portrait and Landscape */ 
+  @media only screen 
+    and (min-device-width : 320px) 
+    and (max-device-width : 479px){ 
+      .mobileShow {display: inline;}
   }
-}
-
-@media print, screen and (max-height: 480px) {
-  nav {
-    display: none;
-  }
-
-  footer {
-    text-align: center;
-    margin: 20px auto;
-    position: relative;
-    left:auto;
-    bottom:auto;
-    width:auto;
-  }
-}
