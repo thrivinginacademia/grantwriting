@@ -1,5 +1,5 @@
 <div class="mobileShow"> 
-<b><a href="https://thrivinginacademia.github.io/grantwriting/">Home</a> 
+<b><a href="https://thrivinginacademia.github.io/">Home</a> 
 <br>
 <a href="https://thrivinginacademia.github.io/grantwriting/">Grant Writing</a>
 <br>
