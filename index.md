@@ -5,7 +5,7 @@
 <br>
 <a href="https://thrivinginacademia.github.io/resources/">Course Resources</a>
 <br>
-Note: this website is not optimized for mobile screens. For the best experience, view in landscape mode or on a computer. </b>
+Note: this website is not optimized for mobile screens. For the best experience, view on a computer. </b>
 <br>
 <br>
 </div>
